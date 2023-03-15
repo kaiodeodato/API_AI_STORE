@@ -1,14 +1,50 @@
 body{
     font-family: 'Tilt Warp', cursive;
+    background-color: #f3f5ec;
+    color: #596168;
+    margin: 0;
 
+}
+a{
+    text-decoration: none;
+    color: #306973;
+    transition: .2s;
+}
+a:hover{
+    text-decoration: none;
+    color: #306973;
+    background-color: #90eacc69;
+    color: #73b3be;
+    border-radius: 5px;
 }
 .navbar{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    width: 92vw;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 20px;
 }
 .navbar nav{
     display: flex;
+}
+.navbar p{
+    margin: 5px;
+}
+.logo_nav{
+    width: 50px;
+    height: 50px;
+    filter: drop-shadow(0px 0px 3px rgba(131, 131, 131, 0.479));
+    transition: .3s;
+    cursor: pointer;
+}
+.logo_nav:hover{
+    scale: 1.2;
+}
+.store_image{
+    width: 400px;
+    height: 400px;
 }
 .container_general{
     display: flex;
@@ -17,8 +53,56 @@ body{
     justify-content: center;
     margin: 0 auto;
     width: 1200px;
+    padding: 20px;
 }
+.container_general p{
+   text-align: justify;
+}
+.container_general h2{
+    color: #91725acb;
+ }
 
+.hero_container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.hero_container div{
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+}
+.buttons_hero button{
+    cursor: pointer;
+    font-size: 20px;
+    margin: 5px;
+    border: none;
+    background-color: #90EACC;
+    padding: 5px;
+    border-radius: 5px;
+    color: #395c50;;
+    transition: .3s;
+}
+.buttons_hero button:hover{
+    background-color: #395c50;;
+    color: #90EACC;
+}
+.container_body{
+
+}
+.title_page{
+    font-size: 40px;
+    color: #306973;
+}
+.description{
+    font-size: 20px;
+}
+.box_text{
+    background-color: #3069731f;
+    padding: 10px;
+    border-radius: 5px
+}
 @media only screen and (max-width: 1201px) {
     .container_general{
         width: 1000px;
@@ -34,14 +118,29 @@ body{
     .container_general{
         width: 600px;
     }
+    .hero_container div{
+        margin-left: 20px;
+        margin-right: 20px;
+
+    }
 }
 @media only screen and (max-width: 481px) {
     .container_general{
-        width: 400px;
+        width: 300px;
+    }
+    .store_image{
+        width: 300px;
+        height: 300px;
     }
 }
 @media only screen and (max-width: 320px) {
     .container_general{
-        width: 300px;
+        width: 200px;
     }
+    .hero_container div{
+        margin-left: 5px;
+        margin-right: 5px;
+
+    }
+    
 }
