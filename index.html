@@ -8,14 +8,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="https://kaiodeodato.github.io/API_AI_STORE/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <nav class="navbar">
-        <img class="logo_nav" src="https://kaiodeodato.github.io/API_AI_STORE/images/assets/logo.png" >
+        <img class="logo_nav" src="images/assets/logo.png" >
         <nav>
             <a href="http://www.portfolio.kaiodeodato.com/"><p>Portfolio</p></a>
-            <a href="https://kaiodeodato.github.io/API_AI_STORE/"><p>Github</p></a>
+            <a href="https://github.com/kaiodeodato/API_AI_STORE"><p>Github</p></a>
             <a href="https://www.paypal.com/donate/?hosted_button_id=7UPTWBA3XLM64"><p>Buy me a coffe</p></a>
         </nav>
     </nav>
@@ -26,12 +26,13 @@
                 <h1>API.AI.STORE</h1>
                 <span>A fake store with a real heart</span>
                 <div class="buttons_hero">
-                    <button>Github</button>
-                    <button>Start Now</button>
+                    <a class="" href="https://github.com/kaiodeodato/API_AI_STORE">Github</a>
+
+                    <a class="" href="#StartNow">Start Now</a>
                 </div>
             </div>
             <div>
-                <img class="store_image" src="https://kaiodeodato.github.io/API_AI_STORE/images/assets/art_store.png" >
+                <img class="store_image" src="/images/assets/art_store.png" >
             </div>
         </div>
         <div class="container_body">
@@ -57,12 +58,150 @@
             <p class="box_text">Keep in mind that our project is always evolving, and increasing our database should be considered when planning your app.
             </p>
 
-            <h2>Buy me a coffee</h2>
-            <p class="box_text">At API_AI_STORE, we are committed to supporting the developer community. That's why we have made our tool free to use. However, if you want to support us and help us keep developing this project, we welcome to buy me a coffee. Every donation helps us to improve and expand our services, and we appreciate your support.</p>
+            <br>
+            <br>
+            <br>
+            <br>
+
+            
+            <h2>Resources</h2>
+            <p>This API originally contains 150 items with the description below</p>
+
+                <div class="box_text ">
+                    <div class="box_items">
+                        <p>Clothes</p>
+                        <p>40 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Shoes</p>
+                        <p>50 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Accessories</p>
+                        <p>60 items</p>
+                    </div>
+                </div>
+                
+                <div class="box_text space-top ">
+                    <div class="box_items">
+                        <p>Clothes - </p>
+                        <p>10 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Clothes - </p>
+                        <p>10 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Clothes - </p>
+                        <p>10 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Clothes - </p>
+                        <p>10 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Clothes - </p>
+                        <p>10 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Clothes - </p>
+                        <p>10 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Shoes -</p>
+                        <p>10 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Shoes -</p>
+                        <p>10 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Shoes -</p>
+                        <p>10 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Shoes -</p>
+                        <p>10 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Accessories -</p>
+                        <p>10 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Accessories -</p>
+                        <p>10 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Accessories -</p>
+                        <p>10 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Accessories -</p>
+                        <p>10 items</p>
+                    </div>
+                    <div class="box_items">
+                        <p>Accessories -</p>
+                        <p>10 items</p>
+                    </div>
+                </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <h2 id="StartNow">Start Now</h2>
+            <span>Exemple Code</span>
+            <p class="box_text color_light">
+                fetch('https://kaiodeodato.github.io/API_AI_STORE/myData.json') <br>
+                .then(res=>res.json()) <br>
+                .then(json=>console.log(json))
+            </p>
+            <span>or</span>
+            <p class="box_text color_light">
+                async function fetchData() { <br><br>
+                    const response = await fetch('https://kaiodeodato.github.io/API_AI_STORE/myData.json'); <br>
+                    const products = await response.json(); <br>
+                    return products; <br>
+                  }
+            </p>
+
+            <br>
+            <br>
+            <br>
+            <br>
+            <h2>Diferent options </h2>
+            <p >You can call the API with all the list of projects, or defining your type os products.</p>
+            <p class="color_light">all products - [fetch(url)]</p>
+            <div class="box_text item_copy">
+                <p id="myData">'https://kaiodeodato.github.io/API_AI_STORE/myData.json'</p>
+                    <img onclick="copyEvent('myData')" class="icon_copy" src="/Images/assets/icon_copy.png">
+                </div>
+            <p class="color_light">some products - [fetch(url)]</p>
+            <div class="box_text item_copy">
+                <p  id="myDataShoes">'https://kaiodeodato.github.io/API_AI_STORE/data/myDataShoes.json'</p>
+                <img onclick="copyEvent('myDataShoes')" class="icon_copy" src="/Images/assets/icon_copy.png">
+            </div>
+            <div class="box_text item_copy">
+                <p  id="myDataClothes">'https://kaiodeodato.github.io/API_AI_STORE/data/myDataClothes.json'</p>
+                <img onclick="copyEvent('myDataClothes')" class="icon_copy" src="/Images/assets/icon_copy.png">
+            </div>
+            <div class="box_text item_copy">
+                <p  id="myDataAccessories">'https://kaiodeodato.github.io/API_AI_STORE/data/myDataAccessories.json'</p>
+                <img onclick="copyEvent('myDataAccessories')" class="icon_copy" src="/Images/assets/icon_copy.png">
+            </div>
+
+            <br>
+            <br>
+            <br>
+            <br>
+                <div class="box_donate">
+                    <h2>Buy me a coffee</h2>
+                    <p class="box_text">At API_AI_STORE, we are committed to supporting the developer community. That's why we have made our tool free to use. However, if you want to support us and help us keep developing this project, we welcome to buy me a coffee. Every donation helps us to improve and expand our services, and we appreciate your support.</p>
+                    <a href="https://www.paypal.com/donate/?hosted_button_id=7UPTWBA3XLM64"><p>Buy me a coffe</p></a>
+                </div>
          </div>
      </div>
 
     
-    <script type="module" src="https://kaiodeodato.github.io/API_AI_STORE/script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
