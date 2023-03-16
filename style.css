@@ -152,6 +152,18 @@ a:hover{
     height: 30px;
     cursor: pointer;
 }
+.picturesExemple{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+.picturesExemple img{
+    width: 220px;
+    height: 220px;
+    border-radius: 10px;
+    margin: 5px;
+}
 @media only screen and (max-width: 1201px) {
     .container_general{
         width: 1000px;

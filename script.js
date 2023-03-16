@@ -10,6 +10,8 @@ async function fetchData() {
 fetchData()
 
 
+
+
 function copyEvent(id)
 {
     var str = document.getElementById(id);
