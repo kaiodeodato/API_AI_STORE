@@ -9,7 +9,8 @@
         "materials": ["suede","canvas"],
         "model": "SK8-HI",
         "category": "Shoes",
-        "image": "https://images.vans.com/is/image/VansEU/VN000D5IB8C-HERO?wid=800&hei=800&fmt=jpg&qlt=85,1&op_sharpen=0&resMode=sharp2&op_usm=1,1,1,0",
+        "type": "Boots",
+        "image": "Images/Shoes/Boots/Boots_1.png",
         "rating": {
           "rate": 4.5,
           "count": 111
