@@ -2,18 +2,66 @@
 "results":[
     {
         "id": 1,
-        "title": "SK8-HI SHOES",
-        "color": ["black","white"],
+        "title": "Cowboy One",
+        "color": ["brown","white"],
         "price": 75.00,
-        "description": "The Sk8-Hi was introduced in 1978 as Style 38, and showcased the now-iconic Vans Sidestripe on a new, innovative high top silhouette. As only the second model featuring the recognizable marker formerly known as the “jazz stripe,” the Sk8-Hi brought a whole new look to the Vans family. Honoring that first legendary high top, the Sk8-Hi is made with sturdy suede and canvas uppers in a variety of classic and unexpected colorways. This lace-up shoe also includes re-enforced toe caps, supportive padded collars, and signature rubber waffle outsoles.",
-        "materials": ["suede","canvas"],
-        "model": "SK8-HI",
+        "description": "The cowboy boot is a classic American footwear style that originated in the Wild West. These boots are designed to withstand the rugged conditions of ranch life and horseback riding, and have become a popular fashion statement across the country.",
+        "materials": ["leather","suede"],
+        "model": "Cowboy One",
         "category": "Shoes",
         "type": "Boots",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_1.png",
         "rating": {
           "rate": 4.5,
           "count": 111
+        }
+      },
+      {
+        "id": 2,
+        "title": "Classic Black",
+        "color": ["black"],
+        "price": 67.00,
+        "description": "A classic black social shoe is a timeless dress shoe that is a staple in any formal or semi-formal wardrobe. Typically made from high-quality leather or suede, these shoes are designed to be sleek, sophisticated, and versatile.",
+        "materials": ["leather"],
+        "model": "Classic Black",
+        "category": "Shoes",
+        "type": "Boots",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_2.png",
+        "rating": {
+          "rate": 4.9,
+          "count": 251
+        }
+      },
+      {
+        "id": 3,
+        "title": "Yellow Boom",
+        "color": ["yellow"],
+        "price": 59.00,
+        "description": "A yellow leather boot is a bold and stylish footwear choice that can add a pop of color to any outfit. There are many different styles of yellow leather boots available, from classic work boots to fashion-forward ankle boots.",
+        "materials": ["leather"],
+        "model": "Yellow Boom",
+        "category": "Shoes",
+        "type": "Boots",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_3.png",
+        "rating": {
+          "rate": 2.9,
+          "count": 42
+        }
+      },
+      {
+        "id": 4,
+        "title": "Classic Two Tones",
+        "color": ["brown"],
+        "price": 99.00,
+        "description": "A two-toned leather boot is a unique and stylish footwear choice that can add a touch of sophistication to any outfit. These boots typically feature two different shades of leather or suede, often in contrasting colors or textures, creating a distinctive and eye-catching look.",
+        "materials": ["leather","suede"],
+        "model": "Classic Two Tones",
+        "category": "Shoes",
+        "type": "Boots",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_4.png",
+        "rating": {
+          "rate": 2.9,
+          "count": 42
         }
       }
       
