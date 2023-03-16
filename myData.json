@@ -10,7 +10,7 @@
         "model": "SK8-HI",
         "category": "Shoes",
         "type": "Boots",
-        "image": "Images/Shoes/Boots/Boots_1.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_1.png",
         "rating": {
           "rate": 4.5,
           "count": 111
