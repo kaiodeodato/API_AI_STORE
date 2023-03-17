@@ -1,6 +1,6 @@
 body,html{
     font-family: 'Tilt Warp', cursive;
-    background-color: #f3f5ec;
+    background-color: #ffffff;
     color: #596168;
     margin: 0 auto;
     scroll-behavior: smooth;
@@ -164,7 +164,11 @@ a:hover{
     border-radius: 10px;
     margin: 5px;
     transition: 1s;
-    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.26));
+    /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.26); */
+    filter: 
+    brightness(1.1)
+    contrast(1.1)
+    ;
 }
 .picturesExemple img:hover{
     z-index: 2;
