@@ -175,6 +175,22 @@
       "rate": 4.3,
       "count": 196
     }
+  },
+  {
+    "id": 12,
+    "title": "Purple Rain",
+    "color": ["purple"],
+    "price": 99.00,
+    "description": "A basic old-style purple boot is a unique and stylish footwear choice that can add a pop of color and personality to any outfit. These boots typically feature a classic design with high-quality materials and a durable construction that is built to last.",
+    "materials": ["leather"],
+    "model": "Purple Rain",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_1.png",
+    "rating": {
+      "rate": 3.5,
+      "count": 196
+    }
   }
       
     ]

@@ -252,3 +252,9 @@ a:hover{
     contrast(1.1)
     ;
 }
+
+.teste{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
