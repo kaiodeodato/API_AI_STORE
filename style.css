@@ -223,8 +223,10 @@ a:hover{
 
         margin-left: 20px;
         margin-right: 20px;
-    }
-   
+    } 
+}
 
-    
+.imgTeste{
+    width: 200px;
+    height: 200px;
 }
