@@ -4,7 +4,7 @@
     "id": 1,
     "title": "Cowboy One",
     "color": ["brown","white"],
-    "price": 75.00,
+    "price": 78.00,
     "description": "The cowboy boot is a classic American footwear style that originated in the Wild West. These boots are designed to withstand the rugged conditions of ranch life and horseback riding, and have become a popular fashion statement across the country.",
     "materials": ["leather","suede"],
     "model": "Cowboy One",
@@ -20,7 +20,7 @@
     "id": 2,
     "title": "Classic Black",
     "color": ["black"],
-    "price": 67.00,
+    "price": 132.00,
     "description": "A classic black social shoe is a timeless dress shoe that is a staple in any formal or semi-formal wardrobe. Typically made from high-quality leather or suede, these shoes are designed to be sleek, sophisticated, and versatile.",
     "materials": ["leather"],
     "model": "Classic Black",
@@ -36,7 +36,7 @@
     "id": 3,
     "title": "Yellow Boom",
     "color": ["yellow"],
-    "price": 59.00,
+    "price": 120.00,
     "description": "A yellow leather boot is a bold and stylish footwear choice that can add a pop of color to any outfit. There are many different styles of yellow leather boots available, from classic work boots to fashion-forward ankle boots.",
     "materials": ["leather"],
     "model": "Yellow Boom",
@@ -68,7 +68,7 @@
     "id": 5,
     "title": "Leather Vibes",
     "color": ["brown"],
-    "price": 99.00,
+    "price": 89.00,
     "description": "A dark leather shoe is a classic and versatile footwear option that can be dressed up or down for any occasion. These shoes are typically made from high-quality leather and feature a sleek and understated design that is perfect for both formal and casual wear.",
     "materials": ["leather"],
     "model": "Leather Vibes",
@@ -84,7 +84,7 @@
     "id": 6,
     "title": "Red Cowboy",
     "color": ["white","red"],
-    "price": 99.00,
+    "price": 79.00,
     "description": "A red cowboy shoe is a bold and eye-catching footwear choice that can add a pop of color and personality to any outfit. These boots are typically made from high-quality leather and feature a classic Western design with pointed toes, angled heels, and decorative stitching.",
     "materials": ["leather"],
     "model": "Red Cowboy",
@@ -100,7 +100,7 @@
     "id": 7,
     "title": "Vampire Night",
     "color": ["black","red"],
-    "price": 99.00,
+    "price": 66.00,
     "description": "A vampire black boot is a unique and stylish footwear option that is often associated with gothic or alternative fashion. These boots typically feature a sleek and edgy design with high-quality materials and attention-grabbing details.",
     "materials": ["leather","textile"],
     "model": "Vampire Night",
@@ -116,7 +116,7 @@
     "id": 8,
     "title": "Basic View One",
     "color": ["brown"],
-    "price": 99.00,
+    "price": 45.00,
     "description": "A basic brown boot is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These boots typically feature a simple and understated design with a classic silhouette and high-quality materials.",
     "materials": ["leather"],
     "model": "Basic View One",
@@ -132,7 +132,7 @@
     "id": 9,
     "title": "Basic View Two",
     "color": ["brown"],
-    "price": 99.00,
+    "price": 68.00,
     "description": "A basic brown boot is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These boots typically feature a simple and understated design with a classic silhouette and high-quality materials.",
     "materials": ["leather"],
     "model": "Basic View Two",
@@ -148,7 +148,7 @@
     "id": 10,
     "title": "Old Blue",
     "color": ["blue"],
-    "price": 99.00,
+    "price": 85.00,
     "description": "A basic old-style blue boot is a stylish and versatile footwear option that can add a unique and vintage-inspired touch to any outfit. These boots typically feature a classic design with high-quality materials and a durable construction that is built to last.",
     "materials": ["leather"],
     "model": "Old Blue",
@@ -164,7 +164,7 @@
     "id": 11,
     "title": "Purple Rain",
     "color": ["purple"],
-    "price": 99.00,
+    "price": 75.00,
     "description": "A basic old-style purple boot is a unique and stylish footwear choice that can add a pop of color and personality to any outfit. These boots typically feature a classic design with high-quality materials and a durable construction that is built to last.",
     "materials": ["leather"],
     "model": "Purple Rain",
@@ -178,18 +178,162 @@
   },
   {
     "id": 12,
+    "title": "Brown Tones",
+    "color": ["brown"],
+    "price": 86.00,
+    "description": "A basic old-style purple boot is a unique and stylish footwear choice that can add a pop of color and personality to any outfit. These boots typically feature a classic design with high-quality materials and a durable construction that is built to last.",
+    "materials": ["leather"],
+    "model": "Brown Tones",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_1.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 176
+    }
+  },
+  {
+    "id": 13,
     "title": "Purple Rain",
-    "color": ["purple"],
+    "color": ["brown"],
     "price": 99.00,
     "description": "A basic old-style purple boot is a unique and stylish footwear choice that can add a pop of color and personality to any outfit. These boots typically feature a classic design with high-quality materials and a durable construction that is built to last.",
     "materials": ["leather"],
     "model": "Purple Rain",
     "category": "Shoes",
     "type": "Classic",
-    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_1.png",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_2.png",
     "rating": {
       "rate": 3.5,
       "count": 196
+    }
+  },
+  {
+    "id": 14,
+    "title": "Purple Rain",
+    "color": ["brown"],
+    "price": 99.00,
+    "description": "A basic old-style purple boot is a unique and stylish footwear choice that can add a pop of color and personality to any outfit. These boots typically feature a classic design with high-quality materials and a durable construction that is built to last.",
+    "materials": ["leather"],
+    "model": "Purple Rain",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_3.png",
+    "rating": {
+      "rate": 3.8,
+      "count": 26
+    }
+  },
+  {
+    "id": 15,
+    "title": "Purple Rain",
+    "color": ["brown"],
+    "price": 75.00,
+    "description": "A basic old-style purple boot is a unique and stylish footwear choice that can add a pop of color and personality to any outfit. These boots typically feature a classic design with high-quality materials and a durable construction that is built to last.",
+    "materials": ["leather"],
+    "model": "Purple Rain",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_4.png",
+    "rating": {
+      "rate": 3.5,
+      "count": 36
+    }
+  },
+  {
+    "id": 16,
+    "title": "Purple Rain",
+    "color": ["brown"],
+    "price": 85.00,
+    "description": "A basic old-style purple boot is a unique and stylish footwear choice that can add a pop of color and personality to any outfit. These boots typically feature a classic design with high-quality materials and a durable construction that is built to last.",
+    "materials": ["leather"],
+    "model": "Purple Rain",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_5.png",
+    "rating": {
+      "rate": 3.5,
+      "count": 66
+    }
+  },
+  {
+    "id": 17,
+    "title": "Purple Rain",
+    "color": ["brown"],
+    "price": 78.00,
+    "description": "A basic old-style purple boot is a unique and stylish footwear choice that can add a pop of color and personality to any outfit. These boots typically feature a classic design with high-quality materials and a durable construction that is built to last.",
+    "materials": ["leather"],
+    "model": "Purple Rain",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_6.png",
+    "rating": {
+      "rate": 3.5,
+      "count": 98
+    }
+  },
+  {
+    "id": 18,
+    "title": "Purple Rain",
+    "color": ["brown"],
+    "price": 65.00,
+    "description": "A basic old-style purple boot is a unique and stylish footwear choice that can add a pop of color and personality to any outfit. These boots typically feature a classic design with high-quality materials and a durable construction that is built to last.",
+    "materials": ["leather"],
+    "model": "Purple Rain",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_7.png",
+    "rating": {
+      "rate": 3.5,
+      "count": 120
+    }
+  },
+  {
+    "id": 19,
+    "title": "Purple Rain",
+    "color": ["brown"],
+    "price": 75.00,
+    "description": "A basic old-style purple boot is a unique and stylish footwear choice that can add a pop of color and personality to any outfit. These boots typically feature a classic design with high-quality materials and a durable construction that is built to last.",
+    "materials": ["leather"],
+    "model": "Purple Rain",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_8.png",
+    "rating": {
+      "rate": 4.2,
+      "count": 84
+    }
+  },
+  {
+    "id": 20,
+    "title": "Purple Rain",
+    "color": ["brown"],
+    "price": 76.00,
+    "description": "A basic old-style purple boot is a unique and stylish footwear choice that can add a pop of color and personality to any outfit. These boots typically feature a classic design with high-quality materials and a durable construction that is built to last.",
+    "materials": ["leather"],
+    "model": "Purple Rain",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_9.png",
+    "rating": {
+      "rate": 3.3,
+      "count": 156
+    }
+  },
+  {
+    "id": 21,
+    "title": "Purple Rain",
+    "color": ["brown"],
+    "price": 99.00,
+    "description": "A basic old-style purple boot is a unique and stylish footwear choice that can add a pop of color and personality to any outfit. These boots typically feature a classic design with high-quality materials and a durable construction that is built to last.",
+    "materials": ["leather"],
+    "model": "Purple Rain",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_10.png",
+    "rating": {
+      "rate": 2.5,
+      "count": 230
     }
   }
       
