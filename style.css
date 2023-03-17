@@ -244,8 +244,8 @@ a:hover{
 }
 
 .imgTeste{
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
 
     filter: 
     brightness(1.1)
@@ -259,4 +259,12 @@ a:hover{
     align-items: center;
     justify-content: center;
     margin: 0 auto;
+}
+.divBoxTeste{
+    width: 300px;
+    height: 700px;
+    padding: 10px;
+}
+.divBoxTeste p{
+    font-size: 12px;
 }

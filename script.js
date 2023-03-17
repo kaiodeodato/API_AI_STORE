@@ -12,7 +12,7 @@ async function fetchData() {
     console.log(products)
     const ArrayImagens = products.map(item => {
         return (`
-        <div>
+        <div class="divBoxTeste">
             <img class="imgTeste" src="${item.image}">
             <p>category:${item.category}</p>
             <p>type:${item.type}</p>
