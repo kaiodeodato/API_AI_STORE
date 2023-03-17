@@ -165,11 +165,28 @@ a:hover{
     margin: 5px;
     transition: 1s;
     /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.26); */
-    filter: 
-    brightness(1.1)
-    contrast(1.1)
-    ;
+    animation-name: fixBG;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
 }
+@keyframes fixBG{
+    0%{
+        filter: 
+            brightness(1.1)
+            contrast(1.1);
+    }
+    50%{
+        filter: 
+            brightness(1)
+            contrast(1);
+    }
+    100%{
+    filter: 
+        brightness(1.1)
+        contrast(1.1);
+    }
+}
+
 .picturesExemple img:hover{
     z-index: 2;
     scale: 1.1;
