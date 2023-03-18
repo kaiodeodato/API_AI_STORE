@@ -333,7 +333,7 @@
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_10.png",
     "rating": {
       "rate": 2.5,
-      "count": 230
+      "count": 75
     }
   },
   {
@@ -349,167 +349,167 @@
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_1.png",
     "rating": {
       "rate": 3.5,
-      "count": 167
+      "count": 96
     }
   },
   {
     "id": 23,
     "title": "Sport Shoes",
-    "color": ["Black"],
+    "color": ["Black","red","white"],
     "price": 79.00,
-    "description": "A classic brown shoe is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These shoes typically feature a simple and understated design with a classic silhouette and high-quality materials.",
-    "materials": ["leather"],
+    "description": "A sport black, red, and white shoe is a bold and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, red, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["polyester","canvas","nylon"],
     "model": "Sport Shoes",
     "category": "Shoes",
     "type": "Sport",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_2.png",
     "rating": {
-      "rate": 3.5,
-      "count": 167
+      "rate": 4.5,
+      "count": 175
     }
   },
   {
     "id": 24,
     "title": "Sport Shoes",
-    "color": ["Black"],
+    "color": ["Black","white","yellow"],
     "price": 79.00,
-    "description": "A classic brown shoe is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These shoes typically feature a simple and understated design with a classic silhouette and high-quality materials.",
-    "materials": ["leather"],
+    "description": "A sport black, yellow, and white shoe is a vibrant and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, yellow, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["leather","polyester","canvas","nylon"],
     "model": "Sport Shoes",
     "category": "Shoes",
     "type": "Sport",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_3.png",
     "rating": {
-      "rate": 3.5,
-      "count": 167
+      "rate": 3.7,
+      "count": 105
     }
   },
   {
     "id": 25,
     "title": "Sport Shoes",
-    "color": ["Black"],
+    "color": ["Black","white","yellow"],
     "price": 79.00,
-    "description": "A classic brown shoe is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These shoes typically feature a simple and understated design with a classic silhouette and high-quality materials.",
-    "materials": ["leather"],
+    "description": "A sport black, yellow, and white shoe is a vibrant and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, yellow, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["polyester","canvas","nylon"],
     "model": "Sport Shoes",
     "category": "Shoes",
     "type": "Sport",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_4.png",
     "rating": {
-      "rate": 3.5,
-      "count": 167
+      "rate": 3.2,
+      "count": 124
     }
   },
   {
     "id": 26,
     "title": "Sport Shoes",
-    "color": ["Black"],
+    "color": ["green","white"],
     "price": 79.00,
-    "description": "A classic brown shoe is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These shoes typically feature a simple and understated design with a classic silhouette and high-quality materials.",
-    "materials": ["leather"],
+    "description": "A sport green and white shoe is a fresh and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a green and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["canvas","nylon"],
     "model": "Sport Shoes",
     "category": "Shoes",
     "type": "Sport",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_5.png",
     "rating": {
-      "rate": 3.5,
-      "count": 167
+      "rate": 2.4,
+      "count": 103
     }
   },
   {
     "id": 27,
     "title": "Sport Shoes",
-    "color": ["Black"],
+    "color": ["blue","white"],
     "price": 79.00,
-    "description": "A classic brown shoe is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These shoes typically feature a simple and understated design with a classic silhouette and high-quality materials.",
-    "materials": ["leather"],
+    "description": "A sport blue and white shoe is a cool and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a blue and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["leather","polyester","canvas","nylon"],
     "model": "Sport Shoes",
     "category": "Shoes",
     "type": "Sport",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_6.png",
     "rating": {
-      "rate": 3.5,
-      "count": 167
+      "rate": 5.0,
+      "count": 152
     }
   },
   {
     "id": 28,
     "title": "Sport Shoes",
-    "color": ["Black"],
+    "color": ["Black","grey","white"],
     "price": 79.00,
-    "description": "A classic brown shoe is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These shoes typically feature a simple and understated design with a classic silhouette and high-quality materials.",
-    "materials": ["leather"],
+    "description": "A sport black, gray, and white shoe is a sleek and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, gray, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["polyester","canvas","nylon"],
     "model": "Sport Shoes",
     "category": "Shoes",
     "type": "Sport",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_7.png",
     "rating": {
-      "rate": 3.5,
-      "count": 167
+      "rate": 4.4,
+      "count": 195
     }
   },
   {
     "id": 29,
     "title": "Sport Shoes",
-    "color": ["Black"],
+    "color": ["black","blue","white"],
     "price": 79.00,
-    "description": "A classic brown shoe is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These shoes typically feature a simple and understated design with a classic silhouette and high-quality materials.",
-    "materials": ["leather"],
+    "description": "A sport black, blue, and white shoe is a bold and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, blue, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["polyester","nylon"],
     "model": "Sport Shoes",
     "category": "Shoes",
     "type": "Sport",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_8.png",
     "rating": {
-      "rate": 3.5,
-      "count": 167
+      "rate": 3.6,
+      "count": 132
     }
   },
   {
     "id": 30,
     "title": "Sport Shoes",
-    "color": ["Black"],
+    "color": ["Black","white"],
     "price": 79.00,
-    "description": "A classic brown shoe is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These shoes typically feature a simple and understated design with a classic silhouette and high-quality materials.",
-    "materials": ["leather"],
+    "description": "A sport black and white shoe is a classic and versatile footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["polyester","canvas"],
     "model": "Sport Shoes",
     "category": "Shoes",
     "type": "Sport",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_9.png",
     "rating": {
-      "rate": 3.5,
-      "count": 167
+      "rate": 2.9,
+      "count": 67
     }
   },
   {
     "id": 31,
     "title": "Sport Shoes",
-    "color": ["Black"],
+    "color": ["Black","orange","white"],
     "price": 79.00,
-    "description": "A classic brown shoe is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These shoes typically feature a simple and understated design with a classic silhouette and high-quality materials.",
-    "materials": ["leather"],
+    "description": "A sport black, orange, and white shoe is a striking and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, orange, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["polyester","canvas","nylon"],
     "model": "Sport Shoes",
     "category": "Shoes",
     "type": "Sport",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_10.png",
     "rating": {
-      "rate": 3.5,
-      "count": 167
+      "rate": 3.8,
+      "count": 154
     }
   },
   {
     "id": 32,
     "title": "Sport Shoes",
-    "color": ["Black"],
+    "color": ["gold","white"],
     "price": 79.00,
-    "description": "A classic brown shoe is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These shoes typically feature a simple and understated design with a classic silhouette and high-quality materials.",
-    "materials": ["leather"],
+    "description": "A sport gold and white shoe is a flashy and eye-catching footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with gold and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["canvas","nylon"],
     "model": "Sport Shoes",
     "category": "Shoes",
     "type": "Sport",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_11.png",
     "rating": {
-      "rate": 3.5,
-      "count": 167
+      "rate": 4.6,
+      "count": 135
     }
   }
       
