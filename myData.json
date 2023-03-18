@@ -991,6 +991,167 @@
       "rate": 4.1,
       "count": 65
     }
+  },
+  {
+    "id": 63,
+    "title": "Dark Side",
+    "color": ["multicolor"],
+    "price": 39.00,
+    "description": "A white cotton shirt with a villain figure printed on it can add an edgy and unique touch to any outfit. The white color of the shirt provides a neutral canvas for the bold and contrasting image, making it stand out. The villain figure can be a popular character from a movie or comic book, or a custom design.",
+    "materials": ["cotton"],
+    "model": "Dark Side",
+    "category": "Clothes",
+    "type": "Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_1.png",
+    "rating": {
+      "rate": 2.8,
+      "count": 47
+    }
+  },
+  {
+    "id": 64,
+    "title": "Victorian Vibes",
+    "color": ["multicolor"],
+    "price": 39.00,
+    "description": "A cotton shirt with a white color and a Victorian floral pattern printed on it can be a great addition to any wardrobe. The intricate and delicate floral design gives the shirt a feminine and romantic touch, while the white color adds a fresh and clean look. This shirt can be paired with a variety of bottoms, such as jeans, skirts, or shorts, depending on the occasion. For a casual look, wear the shirt with light blue denim shorts and white sneakers. For a more formal outfit, tuck the shirt into a black pencil skirt and pair it with black heels. Accessorize with simple jewelry, such as stud earrings or a delicate necklace, to complete the look.",
+    "materials": ["cotton"],
+    "model": "Victorian Vibes",
+    "category": "Clothes",
+    "type": "Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_2.png",
+    "rating": {
+      "rate": 3.7,
+      "count": 145
+    }
+  },
+  {
+    "id": 65,
+    "title": "Desert 2.0",
+    "color": ["multicolor"],
+    "price": 98.00,
+    "description": "A white cotton shirt with a desert art print can be a stylish and unique addition to your wardrobe. The desert print can include cacti, desert animals, or desert landscapes, and can add a touch of nature to your outfit. ",
+    "materials": ["cotton"],
+    "model": "Desert 2.0",
+    "category": "Clothes",
+    "type": "Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_3.png",
+    "rating": {
+      "rate": 4.3,
+      "count": 186
+    }
+  },
+  {
+    "id": 66,
+    "title": "Montana",
+    "color": ["multicolor"],
+    "price": 48.00,
+    "description": "A cotton shirt with a forest landscape art printed in white can be a great addition to your wardrobe. The forest landscape art can add a touch of nature and serenity to your outfit. You can pair this shirt with dark-colored pants or shorts, such as black, navy, or green, to create a contrast that highlights the design on the shirt. Alternatively, you can opt for lighter colors such as khaki or beige for a more natural look. You can also add a denim jacket or a hoodie to complete your outfit. This shirt can be suitable for casual outings, nature walks, or outdoor activities.",
+    "materials": ["cotton"],
+    "model": "Montana",
+    "category": "Clothes",
+    "type": "Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_4.png",
+    "rating": {
+      "rate": 4.8,
+      "count": 245
+    }
+  },
+  {
+    "id": 67,
+    "title": "Flor",
+    "color": ["multicolor"],
+    "price": 59.00,
+    "description": "A cotton shirt with a white color and floral print can add a touch of elegance and femininity to any outfit. Floral prints come in a variety of styles, from dainty and delicate to bold and colorful. A white shirt with a small, subtle floral print can be perfect for a casual daytime look, paired with jeans or shorts and sandals.",
+    "materials": ["cotton"],
+    "model": "Flor",
+    "category": "Clothes",
+    "type": "Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_5.png",
+    "rating": {
+      "rate": 4.4,
+      "count": 169
+    }
+  },
+  {
+    "id": 68,
+    "title": "Dark Shape",
+    "color": ["black","white"],
+    "price": 56.00,
+    "description": "A cotton shirt in white color with a dark art printed on it can be a great addition to your wardrobe. The contrast of the dark art against the white fabric creates a striking and bold look. You can pair this shirt with black pants or jeans for a sleek and sophisticated outfit. For a more casual look, wear it with distressed denim shorts and sneakers.",
+    "materials": ["cotton"],
+    "model": "Dark Shape",
+    "category": "Clothes",
+    "type": "Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_6.png",
+    "rating": {
+      "rate": 3.8,
+      "count": 78
+    }
+  },
+  {
+    "id": 69,
+    "title": "Color Splash",
+    "color": ["multicolor"],
+    "price": 79.00,
+    "description": "A cotton shirt in white color with a multicolor splash art printed on it can be a great addition to your wardrobe. The colorful splashes can add a fun and vibrant touch to your outfit. You can pair this shirt with jeans or shorts for a casual look or dress it up with a blazer and trousers for a more formal occasion. To keep the focus on the shirt, it's best to keep the rest of the outfit simple and neutral.",
+    "materials": ["cotton"],
+    "model": "Color Splash",
+    "category": "Clothes",
+    "type": "Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_7.png",
+    "rating": {
+      "rate": 2.3,
+      "count": 195
+    }
+  },
+  {
+    "id": 70,
+    "title": "Dragon Tree",
+    "color": ["multicolor"],
+    "price": 48.00,
+    "description": "A cotton shirt with a white color and an Asian art print can be a great addition to any wardrobe. The Asian art print can feature intricate designs, bold colors, and various cultural motifs. It can be a great way to add a pop of culture and personality to an outfit.",
+    "materials": ["cotton"],
+    "model": "Dragon Tree",
+    "category": "Clothes",
+    "type": "Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_8.png",
+    "rating": {
+      "rate": 4.2,
+      "count": 38
+    }
+  },
+  {
+    "id": 71,
+    "title": "Stripes",
+    "color": ["multicolor"],
+    "price": 108.00,
+    "description": "A cotton shirt with colorful stripes can be a great addition to any wardrobe. The bright and playful colors can add a fun and cheerful touch to your outfit. Pair the shirt with solid colored pants or shorts in a complementary color, such as navy blue or white, for a cohesive look. ",
+    "materials": ["cotton"],
+    "model": "Stripes",
+    "category": "Clothes",
+    "type": "Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_9.png",
+    "rating": {
+      "rate": 3.8,
+      "count": 78
+    }
+  },
+  {
+    "id": 72,
+    "title": "Shirt",
+    "color": ["black","white"],
+    "price": 59.00,
+    "description": "A black and white cotton shirt with a drawing of a forest can create a unique and stylish look. The contrast of the black and white colors adds a classic touch, while the forest drawing brings in a natural and outdoorsy vibe.",
+    "materials": ["cotton"],
+    "model": "Shirt",
+    "category": "Clothes",
+    "type": "Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_10.png",
+    "rating": {
+      "rate": 2.4,
+      "count": 140
+    }
   }
+   
 ]
 }
