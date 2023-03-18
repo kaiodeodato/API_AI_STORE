@@ -1,20 +1,21 @@
 {
     "results":[
-        {
-            "id": 1,
-            "title": "SK8-HI SHOES",
-            "color": ["black","white"],
-            "price": 75.00,
-            "description": "The Sk8-Hi was introduced in 1978 as Style 38, and showcased the now-iconic Vans Sidestripe on a new, innovative high top silhouette. As only the second model featuring the recognizable marker formerly known as the “jazz stripe,” the Sk8-Hi brought a whole new look to the Vans family. Honoring that first legendary high top, the Sk8-Hi is made with sturdy suede and canvas uppers in a variety of classic and unexpected colorways. This lace-up shoe also includes re-enforced toe caps, supportive padded collars, and signature rubber waffle outsoles.",
-            "materials": ["suede","canvas"],
-            "model": "SK8-HI",
-            "category": "Clothes",
-            "image": "https://images.vans.com/is/image/VansEU/VN000D5IB8C-HERO?wid=800&hei=800&fmt=jpg&qlt=85,1&op_sharpen=0&resMode=sharp2&op_usm=1,1,1,0",
-            "rating": {
-              "rate": 4.5,
-              "count": 111
-            }
-          }
+      {
+        "id": 17,
+        "title": "Star Peach",
+        "color": ["white","peach"],
+        "price": 78.00,
+        "description": "A classic white and peach color shoe is a stylish and unique footwear option that can add a fresh and summery touch to any outfit. These shoes typically feature a clean and minimalist design with a white leather or synthetic upper and peach accents, often in the form of detailing, stitching, or laces.",
+        "materials": ["leather"],
+        "model": "Star Peach",
+        "category": "Clothes",
+        "type": "Pants",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Pants/Pants_1.png",
+        "rating": {
+          "rate": 3.5,
+          "count": 98
+        }
+      }
           
         ]
     }
