@@ -831,6 +831,166 @@
       "rate": 4.5,
       "count": 46
     }
+  },
+  {
+    "id": 53,
+    "title": "Lone Wolf",
+    "color": ["black","white"],
+    "price": 37.00,
+    "description": "A plain white cotton t-shirt is a versatile and essential item for any wardrobe. It can be dressed up or down and pairs well with almost any outfit. You can wear it with jeans and sneakers for a casual look or dress it up with a blazer and heels for a more formal occasion. A beautiful wolf art brings a modern and stripped look to the piece.",
+    "materials": ["cotton"],
+    "model": "Lone Wolf",
+    "category": "Clothes",
+    "type": "T-Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/T-Shirt/T-Shirt_1.png",
+    "rating": {
+      "rate": 3.4,
+      "count": 176
+    }
+  },
+  {
+    "id": 54,
+    "title": "Yellow Nature",
+    "color": ["black","white","yellow"],
+    "price": 49.00,
+    "description": "A plain white cotton t-shirt is a versatile and essential item for any wardrobe. It can be dressed up or down and pairs well with almost any outfit. You can wear it with jeans and sneakers for a casual look or dress it up with a blazer and heels for a more formal occasion. A beautiful nature art brings a modern and stripped look to the piece.",
+    "materials": ["cotton"],
+    "model": "Yellow Nature",
+    "category": "Clothes",
+    "type": "T-Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/T-Shirt/T-Shirt_2.png",
+    "rating": {
+      "rate": 4.1,
+      "count": 76
+    }
+  },
+  {
+    "id": 55,
+    "title": "Splash",
+    "color": ["green","red","white","yellow"],
+    "price": 49.00,
+    "description": "A plain white cotton t-shirt is a versatile and essential item for any wardrobe. It can be dressed up or down and pairs well with almost any outfit. You can wear it with jeans and sneakers for a casual look or dress it up with a blazer and heels for a more formal occasion. A beautiful colorful art brings a modern and stripped look to the piece.",
+    "materials": ["cotton"],
+    "model": "Splash",
+    "category": "Clothes",
+    "type": "T-Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/T-Shirt/T-Shirt_3.png",
+    "rating": {
+      "rate": 4.8,
+      "count": 126
+    }
+  },
+  {
+    "id": 56,
+    "title": "Blue Nature",
+    "color": ["black","blue","white"],
+    "price": 49.00,
+    "description": "A plain white cotton t-shirt is a versatile and essential item for any wardrobe. It can be dressed up or down and pairs well with almost any outfit. You can wear it with jeans and sneakers for a casual look or dress it up with a blazer and heels for a more formal occasion. A beautiful nature art brings a modern and stripped look to the piece.",
+    "materials": ["cotton"],
+    "model": "Blue Nature",
+    "category": "Clothes",
+    "type": "T-Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/T-Shirt/T-Shirt_4.png",
+    "rating": {
+      "rate": 5.0,
+      "count": 68
+    }
+  },
+  {
+    "id": 57,
+    "title": "Black Twilight",
+    "color": ["black","white"],
+    "price": 69.00,
+    "description": "A plain black cotton t-shirt is a versatile and essential item for any wardrobe. It can be dressed up or down and pairs well with almost any outfit. You can wear it with jeans and sneakers for a casual look or dress it up with a blazer and heels for a more formal occasion. A beautiful tree art brings a modern and stripped look to the piece.",
+    "materials": ["cotton"],
+    "model": "Black Twilight",
+    "category": "Clothes",
+    "type": "T-Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/T-Shirt/T-Shirt_5.png",
+    "rating": {
+      "rate": 4.4,
+      "count": 153
+    }
+  },
+  {
+    "id": 58,
+    "title": "Red Splash",
+    "color": ["red","white"],
+    "price": 36.00,
+    "description": "A plain white cotton t-shirt is a versatile and essential item for any wardrobe. It can be dressed up or down and pairs well with almost any outfit. You can wear it with jeans and sneakers for a casual look or dress it up with a blazer and heels for a more formal occasion. A beautiful red splash art brings a modern and stripped look to the piece.",
+    "materials": ["cotton"],
+    "model": "Red Splash",
+    "category": "Clothes",
+    "type": "T-Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/T-Shirt/T-Shirt_6.png",
+    "rating": {
+      "rate": 3.4,
+      "count": 132
+    }
+  },
+  {
+    "id": 59,
+    "title": "Yellow Face",
+    "color": ["black","white","yellow"],
+    "price": 89.00,
+    "description": "A plain white cotton t-shirt is a versatile and essential item for any wardrobe. It can be dressed up or down and pairs well with almost any outfit. You can wear it with jeans and sneakers for a casual look or dress it up with a blazer and heels for a more formal occasion. A beautiful yellow face art brings a modern and stripped look to the piece.",
+    "materials": ["cotton"],
+    "model": "Yellow Face",
+    "category": "Clothes",
+    "type": "T-Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/T-Shirt/T-Shirt_7.png",
+    "rating": {
+      "rate": 4.3,
+      "count": 88
+    }
+  },
+  {
+    "id": 60,
+    "title": "Under Water",
+    "color": ["black","blue","white"],
+    "price": 59.00,
+    "description": "A white and blue cotton t-shirt is a versatile and essential item for any wardrobe. It can be dressed up or down and pairs well with almost any outfit. You can wear it with jeans and sneakers for a casual look or dress it up with a blazer and heels for a more formal occasion. A beautiful water concept art brings a modern and stripped look to the piece.",
+    "materials": ["cotton"],
+    "model": "Under Water",
+    "category": "Clothes",
+    "type": "T-Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/T-Shirt/T-Shirt_8.png",
+    "rating": {
+      "rate": 3.6,
+      "count": 65
+    }
+  },
+  {
+    "id": 61,
+    "title": "Orange Juice",
+    "color": ["orange","white"],
+    "price": 39.00,
+    "description": "A plain white cotton t-shirt is a versatile and essential item for any wardrobe. It can be dressed up or down and pairs well with almost any outfit. You can wear it with jeans and sneakers for a casual look or dress it up with a blazer and heels for a more formal occasion. A beautiful orange art brings a modern and stripped look to the piece.",
+    "materials": ["orange","cotton"],
+    "model": "Orange Juice",
+    "category": "Clothes",
+    "type": "T-Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/T-Shirt/T-Shirt_9.png",
+    "rating": {
+      "rate": 4.0,
+      "count": 98
+    }
+  },
+  {
+    "id": 62,
+    "title": "City View",
+    "color": ["black","white"],
+    "price": 38.00,
+    "description": "A plain white cotton t-shirt is a versatile and essential item for any wardrobe. It can be dressed up or down and pairs well with almost any outfit. You can wear it with jeans and sneakers for a casual look or dress it up with a blazer and heels for a more formal occasion. A beautiful dark city art brings a modern and stripped look to the piece.",
+    "materials": ["cotton"],
+    "model": "City View",
+    "category": "Clothes",
+    "type": "T-Shirt",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/T-Shirt/T-Shirt_10.png",
+    "rating": {
+      "rate": 4.1,
+      "count": 65
+    }
   }
 ]
 }
