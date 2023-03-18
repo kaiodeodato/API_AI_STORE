@@ -1,26 +1,26 @@
 {
     "results":[
       {
-        "id": 17,
-        "title": "Star Peach",
-        "color": ["white","peach"],
-        "price": 78.00,
+        "id": 43,
+        "title": "Basic Jeans",
+        "color": ["blue"],
+        "price": 68.00,
         "description": "A classic white and peach color shoe is a stylish and unique footwear option that can add a fresh and summery touch to any outfit. These shoes typically feature a clean and minimalist design with a white leather or synthetic upper and peach accents, often in the form of detailing, stitching, or laces.",
-        "materials": ["leather"],
+        "materials": ["jeans"],
         "model": "Star Peach",
         "category": "Clothes",
         "type": "Pants",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Pants/Pants_1.png",
         "rating": {
-          "rate": 3.5,
-          "count": 98
+          "rate": 2.4,
+          "count": 135
         }
       },
       {
-        "id": 17,
+        "id": 44,
         "title": "Star Peach",
         "color": ["white","peach"],
-        "price": 78.00,
+        "price": 98.00,
         "description": "A classic white and peach color shoe is a stylish and unique footwear option that can add a fresh and summery touch to any outfit. These shoes typically feature a clean and minimalist design with a white leather or synthetic upper and peach accents, often in the form of detailing, stitching, or laces.",
         "materials": ["leather"],
         "model": "Star Peach",
@@ -28,15 +28,15 @@
         "type": "Pants",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Pants/Pants_2.png",
         "rating": {
-          "rate": 3.5,
-          "count": 98
+          "rate": 3.3,
+          "count": 233
         }
       },
       {
-        "id": 17,
+        "id": 45,
         "title": "Star Peach",
         "color": ["white","peach"],
-        "price": 78.00,
+        "price": 46.00,
         "description": "A classic white and peach color shoe is a stylish and unique footwear option that can add a fresh and summery touch to any outfit. These shoes typically feature a clean and minimalist design with a white leather or synthetic upper and peach accents, often in the form of detailing, stitching, or laces.",
         "materials": ["leather"],
         "model": "Star Peach",
@@ -44,15 +44,15 @@
         "type": "Pants",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Pants/Pants_3.png",
         "rating": {
-          "rate": 3.5,
-          "count": 98
+          "rate": 3.1,
+          "count": 156
         }
       },
       {
-        "id": 17,
+        "id": 46,
         "title": "Star Peach",
         "color": ["white","peach"],
-        "price": 78.00,
+        "price": 67.00,
         "description": "A classic white and peach color shoe is a stylish and unique footwear option that can add a fresh and summery touch to any outfit. These shoes typically feature a clean and minimalist design with a white leather or synthetic upper and peach accents, often in the form of detailing, stitching, or laces.",
         "materials": ["leather"],
         "model": "Star Peach",
@@ -60,15 +60,15 @@
         "type": "Pants",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Pants/Pants_4.png",
         "rating": {
-          "rate": 3.5,
-          "count": 98
+          "rate": 4.4,
+          "count": 35
         }
       },
       {
-        "id": 17,
+        "id": 47,
         "title": "Star Peach",
         "color": ["white","peach"],
-        "price": 78.00,
+        "price": 82.00,
         "description": "A classic white and peach color shoe is a stylish and unique footwear option that can add a fresh and summery touch to any outfit. These shoes typically feature a clean and minimalist design with a white leather or synthetic upper and peach accents, often in the form of detailing, stitching, or laces.",
         "materials": ["leather"],
         "model": "Star Peach",
@@ -76,15 +76,15 @@
         "type": "Pants",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Pants/Pants_5.png",
         "rating": {
-          "rate": 3.5,
-          "count": 98
+          "rate": 3.7,
+          "count": 96
         }
       },
       {
-        "id": 17,
+        "id": 48,
         "title": "Star Peach",
         "color": ["white","peach"],
-        "price": 78.00,
+        "price": 85.00,
         "description": "A classic white and peach color shoe is a stylish and unique footwear option that can add a fresh and summery touch to any outfit. These shoes typically feature a clean and minimalist design with a white leather or synthetic upper and peach accents, often in the form of detailing, stitching, or laces.",
         "materials": ["leather"],
         "model": "Star Peach",
@@ -92,15 +92,15 @@
         "type": "Pants",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Pants/Pants_6.png",
         "rating": {
-          "rate": 3.5,
-          "count": 98
+          "rate": 3.8,
+          "count": 122
         }
       },
       {
-        "id": 17,
+        "id": 49,
         "title": "Star Peach",
         "color": ["white","peach"],
-        "price": 78.00,
+        "price": 90.00,
         "description": "A classic white and peach color shoe is a stylish and unique footwear option that can add a fresh and summery touch to any outfit. These shoes typically feature a clean and minimalist design with a white leather or synthetic upper and peach accents, often in the form of detailing, stitching, or laces.",
         "materials": ["leather"],
         "model": "Star Peach",
@@ -108,15 +108,15 @@
         "type": "Pants",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Pants/Pants_7.png",
         "rating": {
-          "rate": 3.5,
-          "count": 98
+          "rate": 4.1,
+          "count": 78
         }
       },
       {
-        "id": 17,
+        "id": 50,
         "title": "Star Peach",
         "color": ["white","peach"],
-        "price": 78.00,
+        "price": 90.00,
         "description": "A classic white and peach color shoe is a stylish and unique footwear option that can add a fresh and summery touch to any outfit. These shoes typically feature a clean and minimalist design with a white leather or synthetic upper and peach accents, often in the form of detailing, stitching, or laces.",
         "materials": ["leather"],
         "model": "Star Peach",
@@ -124,15 +124,15 @@
         "type": "Pants",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Pants/Pants_8.png",
         "rating": {
-          "rate": 3.5,
-          "count": 98
+          "rate": 2.5,
+          "count": 49
         }
       },
       {
-        "id": 17,
+        "id": 51,
         "title": "Star Peach",
         "color": ["white","peach"],
-        "price": 78.00,
+        "price": 80.00,
         "description": "A classic white and peach color shoe is a stylish and unique footwear option that can add a fresh and summery touch to any outfit. These shoes typically feature a clean and minimalist design with a white leather or synthetic upper and peach accents, often in the form of detailing, stitching, or laces.",
         "materials": ["leather"],
         "model": "Star Peach",
@@ -140,15 +140,15 @@
         "type": "Pants",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Pants/Pants_9.png",
         "rating": {
-          "rate": 3.5,
-          "count": 98
+          "rate": 3.6,
+          "count": 36
         }
       },
       {
-        "id": 17,
+        "id": 52,
         "title": "Star Peach",
         "color": ["white","peach"],
-        "price": 78.00,
+        "price": 69.00,
         "description": "A classic white and peach color shoe is a stylish and unique footwear option that can add a fresh and summery touch to any outfit. These shoes typically feature a clean and minimalist design with a white leather or synthetic upper and peach accents, often in the form of detailing, stitching, or laces.",
         "materials": ["leather"],
         "model": "Star Peach",
@@ -156,10 +156,10 @@
         "type": "Pants",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Pants/Pants_10.png",
         "rating": {
-          "rate": 3.5,
-          "count": 98
+          "rate": 4.5,
+          "count": 46
         }
-      },
+      }
           
         ]
     }
