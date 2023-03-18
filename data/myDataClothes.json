@@ -479,6 +479,166 @@
           "rate": 2.4,
           "count": 140
         }
+      },
+      {
+        "id": 73,
+        "title": "Short",
+        "color": ["green","yellow","white"],
+        "price": 85.00,
+        "description": "A black and white cotton shirt with a drawing of a forest can create a unique and stylish look. The contrast of the black and white colors adds a classic touch, while the forest drawing brings in a natural and outdoorsy vibe.",
+        "materials": ["cotton"],
+        "model": "Short",
+        "category": "Clothes",
+        "type": "Short",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Short/Short_1.png",
+        "rating": {
+          "rate": 3.3,
+          "count": 196
+        }
+      },
+      {
+        "id": 74,
+        "title": "Short",
+        "color": ["green"],
+        "price": 65.00,
+        "description": "A black and white cotton shirt with a drawing of a forest can create a unique and stylish look. The contrast of the black and white colors adds a classic touch, while the forest drawing brings in a natural and outdoorsy vibe.",
+        "materials": ["cotton"],
+        "model": "Short",
+        "category": "Clothes",
+        "type": "Short",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Short/Short_2.png",
+        "rating": {
+          "rate": 4.8,
+          "count": 124
+        }
+      },
+      {
+        "id": 75,
+        "title": "Short",
+        "color": ["green"],
+        "price": 75.00,
+        "description": "A black and white cotton shirt with a drawing of a forest can create a unique and stylish look. The contrast of the black and white colors adds a classic touch, while the forest drawing brings in a natural and outdoorsy vibe.",
+        "materials": ["cotton"],
+        "model": "Short",
+        "category": "Clothes",
+        "type": "Short",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Short/Short_3.png",
+        "rating": {
+          "rate": 3.2,
+          "count": 96
+        }
+      },
+      {
+        "id": 76,
+        "title": "Short",
+        "color": ["white"],
+        "price": 69.00,
+        "description": "A black and white cotton shirt with a drawing of a forest can create a unique and stylish look. The contrast of the black and white colors adds a classic touch, while the forest drawing brings in a natural and outdoorsy vibe.",
+        "materials": ["cotton"],
+        "model": "Short",
+        "category": "Clothes",
+        "type": "Short",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Short/Short_4.png",
+        "rating": {
+          "rate": 3.3,
+          "count": 98
+        }
+      },
+      {
+        "id": 77,
+        "title": "Short",
+        "color": ["black","gold"],
+        "price": 76.00,
+        "description": "A black and white cotton shirt with a drawing of a forest can create a unique and stylish look. The contrast of the black and white colors adds a classic touch, while the forest drawing brings in a natural and outdoorsy vibe.",
+        "materials": ["cotton"],
+        "model": "Short",
+        "category": "Clothes",
+        "type": "Short",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Short/Short_5.png",
+        "rating": {
+          "rate": 2.3,
+          "count": 39
+        }
+      },
+      {
+        "id": 78,
+        "title": "Short",
+        "color": ["red","white"],
+        "price": 69.00,
+        "description": "A black and white cotton shirt with a drawing of a forest can create a unique and stylish look. The contrast of the black and white colors adds a classic touch, while the forest drawing brings in a natural and outdoorsy vibe.",
+        "materials": ["cotton"],
+        "model": "Short",
+        "category": "Clothes",
+        "type": "Short",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Short/Short_6.png",
+        "rating": {
+          "rate": 3.5,
+          "count": 46
+        }
+      },
+      {
+        "id": 79,
+        "title": "Short",
+        "color": ["blue","white"],
+        "price": 86.00,
+        "description": "A black and white cotton shirt with a drawing of a forest can create a unique and stylish look. The contrast of the black and white colors adds a classic touch, while the forest drawing brings in a natural and outdoorsy vibe.",
+        "materials": ["cotton"],
+        "model": "Short",
+        "category": "Clothes",
+        "type": "Short",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Short/Short_7.png",
+        "rating": {
+          "rate": 4.7,
+          "count": 73
+        }
+      },
+      {
+        "id": 80,
+        "title": "Short",
+        "color": ["black","white"],
+        "price": 66.00,
+        "description": "A black and white cotton shirt with a drawing of a forest can create a unique and stylish look. The contrast of the black and white colors adds a classic touch, while the forest drawing brings in a natural and outdoorsy vibe.",
+        "materials": ["cotton"],
+        "model": "Short",
+        "category": "Clothes",
+        "type": "Short",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Short/Short_8.png",
+        "rating": {
+          "rate": 2.7,
+          "count": 23
+        }
+      },
+      {
+        "id": 81,
+        "title": "Short",
+        "color": ["green","orange"],
+        "price": 79.00,
+        "description": "A black and white cotton shirt with a drawing of a forest can create a unique and stylish look. The contrast of the black and white colors adds a classic touch, while the forest drawing brings in a natural and outdoorsy vibe.",
+        "materials": ["cotton"],
+        "model": "Short",
+        "category": "Clothes",
+        "type": "Short",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Short/Short_9.png",
+        "rating": {
+          "rate": 3.1,
+          "count": 136
+        }
+      },
+      {
+        "id": 82,
+        "title": "Short",
+        "color": ["green","orange"],
+        "price": 59.00,
+        "description": "A black and white cotton shirt with a drawing of a forest can create a unique and stylish look. The contrast of the black and white colors adds a classic touch, while the forest drawing brings in a natural and outdoorsy vibe.",
+        "materials": ["cotton"],
+        "model": "Short",
+        "category": "Clothes",
+        "type": "Short",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Short/Short_10.png",
+        "rating": {
+          "rate": 4.2,
+          "count":73
+        }
       }
           
     ]
