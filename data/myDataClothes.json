@@ -319,6 +319,22 @@
           "rate": 4.1,
           "count": 65
         }
+      },
+      {
+        "id": 63,
+        "title": "Shirt",
+        "color": ["white"],
+        "price": 48.00,
+        "description": "A white cotton shirt is a classic and timeless piece that should be in everyone's wardrobe. It is versatile and can be dressed up or down depending on the occasion. For a casual look, pair the shirt with denim jeans and sneakers. For a more formal outfit, wear the shirt with dress pants and dress shoes. A beautiful orange art brings a modern and stripped look to the piece.",
+        "materials": ["cotton"],
+        "model": "Shirt",
+        "category": "Clothes",
+        "type": "Shirt",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_1.png",
+        "rating": {
+          "rate": 3.8,
+          "count": 78
+        }
       }
           
     ]
