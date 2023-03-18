@@ -340,7 +340,7 @@
     "id": 22,
     "title": "Basic Black",
     "color": ["Black","white"],
-    "price": 79.00,
+    "price": 144.00,
     "description": "A sport black and white shoe is a functional and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
     "materials": ["leather","canvas","nylon"],
     "model": "Basic Black",
@@ -356,7 +356,7 @@
     "id": 23,
     "title": "Red Vibes",
     "color": ["Black","red","white"],
-    "price": 79.00,
+    "price": 153.00,
     "description": "A sport black, red, and white shoe is a bold and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, red, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
     "materials": ["polyester","canvas","nylon"],
     "model": "Red Vibes",
@@ -372,7 +372,7 @@
     "id": 24,
     "title": "Sport yellow",
     "color": ["Black","white","yellow"],
-    "price": 79.00,
+    "price": 45.00,
     "description": "A sport black, yellow, and white shoe is a vibrant and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, yellow, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
     "materials": ["leather","polyester","canvas","nylon"],
     "model": "Sport yellow",
@@ -388,7 +388,7 @@
     "id": 25,
     "title": "Sport yellow Two",
     "color": ["Black","white","yellow"],
-    "price": 79.00,
+    "price": 132.00,
     "description": "A sport black, yellow, and white shoe is a vibrant and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, yellow, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
     "materials": ["polyester","canvas","nylon"],
     "model": "Sport yellow Two",
@@ -404,7 +404,7 @@
     "id": 26,
     "title": "Sport Grass",
     "color": ["green","white"],
-    "price": 79.00,
+    "price": 96.00,
     "description": "A sport green and white shoe is a fresh and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a green and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
     "materials": ["canvas","nylon"],
     "model": "Sport Grass",
@@ -420,7 +420,7 @@
     "id": 27,
     "title": "Sport Sky",
     "color": ["blue","white"],
-    "price": 79.00,
+    "price": 81.00,
     "description": "A sport blue and white shoe is a cool and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a blue and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
     "materials": ["leather","polyester","canvas","nylon"],
     "model": "Sport Sky",
@@ -436,7 +436,7 @@
     "id": 28,
     "title": "Gray Run",
     "color": ["Black","grey","white"],
-    "price": 79.00,
+    "price": 69.00,
     "description": "A sport black, gray, and white shoe is a sleek and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, gray, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
     "materials": ["polyester","canvas","nylon"],
     "model": "Gray Run",
@@ -452,7 +452,7 @@
     "id": 29,
     "title": "Basic Blue",
     "color": ["black","blue","white"],
-    "price": 79.00,
+    "price": 83.00,
     "description": "A sport black, blue, and white shoe is a bold and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, blue, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
     "materials": ["polyester","nylon"],
     "model": "Basic Blue",
@@ -468,7 +468,7 @@
     "id": 30,
     "title": "Basic B&W",
     "color": ["Black","white"],
-    "price": 79.00,
+    "price": 78.00,
     "description": "A sport black and white shoe is a classic and versatile footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
     "materials": ["polyester","canvas"],
     "model": "Basic B&W",
@@ -484,7 +484,7 @@
     "id": 31,
     "title": "Orange Dream",
     "color": ["Black","orange","white"],
-    "price": 79.00,
+    "price": 96.00,
     "description": "A sport black, orange, and white shoe is a striking and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, orange, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
     "materials": ["polyester","canvas","nylon"],
     "model": "Orange Dream",
@@ -492,15 +492,15 @@
     "type": "Sport",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_10.png",
     "rating": {
-      "rate": 3.8,
-      "count": 154
+      "rate": 4.7,
+      "count": 165
     }
   },
   {
     "id": 32,
     "title": "Golden Years",
     "color": ["gold","white"],
-    "price": 79.00,
+    "price": 159.00,
     "description": "A sport gold and white shoe is a flashy and eye-catching footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with gold and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
     "materials": ["canvas","nylon"],
     "model": "Golden Years",
@@ -508,168 +508,168 @@
     "type": "Sport",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_11.png",
     "rating": {
-      "rate": 4.6,
-      "count": 135
+      "rate": 3.4,
+      "count": 203
     }
   },
   {
     "id": 33,
-    "title": "Heels Shoes",
-    "color": ["gold","white"],
-    "price": 79.00,
-    "description": "A Heels gold and white shoe is a flashy and eye-catching footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with gold and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
-    "materials": ["canvas","nylon"],
-    "model": "Heels Shoes",
+    "title": "Fashion purple",
+    "color": ["purple"],
+    "price": 169.00,
+    "description": "A classy heel with a purple color is a stunning and sophisticated footwear option, perfect for adding a pop of color to any outfit. These heels often feature a sleek and simple design, with a pointed or rounded toe, stiletto or block heel, and a comfortable footbed.",
+    "materials": ["leather"],
+    "model": "Fashion purple",
     "category": "Shoes",
     "type": "Heels",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_1.png",
     "rating": {
-      "rate": 4.6,
-      "count": 135
+      "rate": 3.9,
+      "count": 145
     }
   },
   {
     "id": 34,
-    "title": "Heels Shoes",
-    "color": ["gold","white"],
-    "price": 79.00,
-    "description": "A Heels gold and white shoe is a flashy and eye-catching footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with gold and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
-    "materials": ["canvas","nylon"],
-    "model": "Heels Shoes",
+    "title": "Kiss",
+    "color": ["red"],
+    "price": 96.00,
+    "description": "A red heel is a classic and timeless choice for any shoe collection, and can add a bold and confident touch to any outfit. These heels come in a variety of styles, from sleek and sophisticated pumps to strappy sandals and trendy mules.",
+    "materials": ["leather"],
+    "model": "Kiss",
     "category": "Shoes",
     "type": "Heels",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_2.png",
     "rating": {
-      "rate": 4.6,
-      "count": 135
+      "rate": 3.3,
+      "count": 132
     }
   },
   {
     "id": 35,
-    "title": "Heels Shoes",
-    "color": ["gold","white"],
-    "price": 79.00,
-    "description": "A Heels gold and white shoe is a flashy and eye-catching footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with gold and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
-    "materials": ["canvas","nylon"],
-    "model": "Heels Shoes",
+    "title": "Sunrise",
+    "color": ["yellow"],
+    "price": 127.00,
+    "description": "Introducing the new yellow heels, the perfect statement piece to complete any outfit. These elegant shoes feature a pointed toe and a sleek stiletto heel, designed to elongate your legs and add a touch of sophistication to your look. The buttery yellow leather upper adds a bold pop of color, while the cushioned footbed ensures a comfortable fit, making these heels ideal for all-day wear. Whether paired with a little black dress or your favorite jeans, these yellow heels are sure to turn heads and elevate your style.",
+    "materials": ["leather"],
+    "model": "Sunrise",
     "category": "Shoes",
     "type": "Heels",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_3.png",
     "rating": {
-      "rate": 4.6,
-      "count": 135
+      "rate": 2.9,
+      "count": 215
     }
   },
   {
     "id": 36,
-    "title": "Heels Shoes",
-    "color": ["gold","white"],
-    "price": 79.00,
-    "description": "A Heels gold and white shoe is a flashy and eye-catching footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with gold and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
-    "materials": ["canvas","nylon"],
-    "model": "Heels Shoes",
+    "title": "Victorian Blue",
+    "color": ["blue"],
+    "price": 86.00,
+    "description": "Step into the past with these Victorian Blue heels, inspired by the elegant and intricate designs of the Victorian era. These heels feature a classic pointed toe, a comfortable cushioned footbed, and a delicate ankle strap that secures the shoe in place.",
+    "materials": ["leather"],
+    "model": "Victorian Blue",
     "category": "Shoes",
     "type": "Heels",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_4.png",
     "rating": {
-      "rate": 4.6,
-      "count": 135
+      "rate": 3.1,
+      "count": 98
     }
   },
   {
     "id": 37,
-    "title": "Heels Shoes",
-    "color": ["gold","white"],
-    "price": 79.00,
-    "description": "A Heels gold and white shoe is a flashy and eye-catching footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with gold and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
-    "materials": ["canvas","nylon"],
-    "model": "Heels Shoes",
+    "title": "Yellow Detail",
+    "color": ["yellow"],
+    "price": 127.00,
+    "description": "Make a bold statement with these yellow heels that are sure to turn heads. The sleek design features a pointed toe and a slender stiletto heel that adds a touch of sophistication to your outfit. The vibrant yellow hue is eye-catching and playful, perfect for adding a pop of color to any outfit. The shoe is made with high-quality materials to ensure durability and comfort, with a cushioned footbed to keep your feet feeling great all day long.",
+    "materials": ["suede"],
+    "model": "Yellow Detail",
     "category": "Shoes",
     "type": "Heels",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_5.png",
     "rating": {
-      "rate": 4.6,
-      "count": 135
+      "rate": 3.6,
+      "count": 186
     }
   },
   {
     "id": 38,
-    "title": "Heels Shoes",
-    "color": ["gold","white"],
-    "price": 79.00,
-    "description": "A Heels gold and white shoe is a flashy and eye-catching footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with gold and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
-    "materials": ["canvas","nylon"],
-    "model": "Heels Shoes",
+    "title": "Basic White",
+    "color": ["white"],
+    "price": 145.00,
+    "description": "These elegant heels feature a timeless design that can be worn for any occasion. The smooth, white color upper exudes sophistication and refinement, while the pointed toe and slim heel add a touch of femininity. The shoe's ankle strap provides additional support and enhances the wearer's silhouette. The lightly padded footbed ensures all-day comfort, making these heels ideal for both work and play. Perfect for weddings, graduations, and other formal events, these white heels are a versatile addition to any wardrobe.",
+    "materials": ["leather","suede"],
+    "model": "Basic White",
     "category": "Shoes",
     "type": "Heels",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_6.png",
     "rating": {
-      "rate": 4.6,
-      "count": 135
+      "rate": 3.6,
+      "count": 138
     }
   },
   {
     "id": 39,
-    "title": "Heels Shoes",
-    "color": ["gold","white"],
-    "price": 79.00,
-    "description": "A Heels gold and white shoe is a flashy and eye-catching footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with gold and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
-    "materials": ["canvas","nylon"],
-    "model": "Heels Shoes",
+    "title": "Silver Glow",
+    "color": ["silver"],
+    "price": 99.00,
+    "description": "This stunning heels shoe in a sleek silver shade is the perfect choice for any formal occasion. The elegant design features a pointed toe and a slim stiletto heel, creating a flattering and sophisticated silhouette. The shoe is crafted from high-quality materials, with a glossy patent finish that catches the light beautifully.",
+    "materials": ["leather","suede"],
+    "model": "Silver Glow",
     "category": "Shoes",
     "type": "Heels",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_7.png",
     "rating": {
-      "rate": 4.6,
-      "count": 135
+      "rate": 3.7,
+      "count": 193
     }
   },
   {
     "id": 40,
-    "title": "Heels Shoes",
-    "color": ["gold","white"],
-    "price": 79.00,
-    "description": "A Heels gold and white shoe is a flashy and eye-catching footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with gold and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
-    "materials": ["canvas","nylon"],
-    "model": "Heels Shoes",
+    "title": "Roman",
+    "color": ["Bronze"],
+    "price": 94.00,
+    "description": "Introducing the Roman, a stunning bronze-colored heels shoe that will add a touch of elegance to any outfit. These classic heels are made from high-quality materials and feature a sleek design that will never go out of style. ",
+    "materials": ["polyester"],
+    "model": "Roman",
     "category": "Shoes",
     "type": "Heels",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_8.png",
     "rating": {
-      "rate": 4.6,
-      "count": 135
+      "rate": 3.5,
+      "count": 256
     }
   },
   {
     "id": 41,
-    "title": "Heels Shoes",
-    "color": ["gold","white"],
-    "price": 79.00,
-    "description": "A Heels gold and white shoe is a flashy and eye-catching footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with gold and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
-    "materials": ["canvas","nylon"],
-    "model": "Heels Shoes",
+    "title": "The Crown One",
+    "color": ["gold"],
+    "price": 139.00,
+    "description": "Introducing The Crown One - a stunning pair of heels that will make you feel like royalty. These elegant shoes feature a lustrous gold color that exudes luxury and sophistication. The slim, high heel elongates the leg and creates a sleek silhouette, while the cushioned footbed ensures comfort with every step.",
+    "materials": ["polyester"],
+    "model": "The Crown One",
     "category": "Shoes",
     "type": "Heels",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_9.png",
     "rating": {
-      "rate": 4.6,
-      "count": 135
+      "rate": 4.7,
+      "count": 175
     }
   },
   {
     "id": 42,
-    "title": "Heels Shoes",
-    "color": ["gold","white"],
-    "price": 79.00,
-    "description": "A Heels gold and white shoe is a flashy and eye-catching footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with gold and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
-    "materials": ["canvas","nylon"],
-    "model": "Heels Shoes",
+    "title": "The Crown Two",
+    "color": ["gold"],
+    "price": 76.00,
+    "description": "Introducing The Crown Two - a stunning pair of heels that will make you feel like royalty. These elegant shoes feature a lustrous gold color that exudes luxury and sophistication. The slim, high heel elongates the leg and creates a sleek silhouette, while the cushioned footbed ensures comfort with every step.",
+    "materials": ["polyester"],
+    "model": "The Crown Two",
     "category": "Shoes",
     "type": "Heels",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_10.png",
     "rating": {
-      "rate": 4.6,
-      "count": 135
+      "rate": 3.8,
+      "count": 75
     }
   }
       
