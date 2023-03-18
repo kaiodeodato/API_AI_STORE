@@ -335,6 +335,150 @@
           "rate": 3.8,
           "count": 78
         }
+      },
+      {
+        "id": 64,
+        "title": "Shirt",
+        "color": ["white"],
+        "price": 48.00,
+        "description": "A white cotton shirt is a classic and timeless piece that should be in everyone's wardrobe. It is versatile and can be dressed up or down depending on the occasion. For a casual look, pair the shirt with denim jeans and sneakers. For a more formal outfit, wear the shirt with dress pants and dress shoes. A beautiful orange art brings a modern and stripped look to the piece.",
+        "materials": ["cotton"],
+        "model": "Shirt",
+        "category": "Clothes",
+        "type": "Shirt",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_2.png",
+        "rating": {
+          "rate": 3.8,
+          "count": 78
+        }
+      },
+      {
+        "id": 65,
+        "title": "Shirt",
+        "color": ["white"],
+        "price": 48.00,
+        "description": "A white cotton shirt is a classic and timeless piece that should be in everyone's wardrobe. It is versatile and can be dressed up or down depending on the occasion. For a casual look, pair the shirt with denim jeans and sneakers. For a more formal outfit, wear the shirt with dress pants and dress shoes. A beautiful orange art brings a modern and stripped look to the piece.",
+        "materials": ["cotton"],
+        "model": "Shirt",
+        "category": "Clothes",
+        "type": "Shirt",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_3.png",
+        "rating": {
+          "rate": 3.8,
+          "count": 78
+        }
+      },
+      {
+        "id": 66,
+        "title": "Shirt",
+        "color": ["white"],
+        "price": 48.00,
+        "description": "A white cotton shirt is a classic and timeless piece that should be in everyone's wardrobe. It is versatile and can be dressed up or down depending on the occasion. For a casual look, pair the shirt with denim jeans and sneakers. For a more formal outfit, wear the shirt with dress pants and dress shoes. A beautiful orange art brings a modern and stripped look to the piece.",
+        "materials": ["cotton"],
+        "model": "Shirt",
+        "category": "Clothes",
+        "type": "Shirt",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_4.png",
+        "rating": {
+          "rate": 3.8,
+          "count": 78
+        }
+      },
+      {
+        "id": 67,
+        "title": "Shirt",
+        "color": ["white"],
+        "price": 48.00,
+        "description": "A white cotton shirt is a classic and timeless piece that should be in everyone's wardrobe. It is versatile and can be dressed up or down depending on the occasion. For a casual look, pair the shirt with denim jeans and sneakers. For a more formal outfit, wear the shirt with dress pants and dress shoes. A beautiful orange art brings a modern and stripped look to the piece.",
+        "materials": ["cotton"],
+        "model": "Shirt",
+        "category": "Clothes",
+        "type": "Shirt",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_5.png",
+        "rating": {
+          "rate": 3.8,
+          "count": 78
+        }
+      },
+      {
+        "id": 68,
+        "title": "Shirt",
+        "color": ["white"],
+        "price": 48.00,
+        "description": "A white cotton shirt is a classic and timeless piece that should be in everyone's wardrobe. It is versatile and can be dressed up or down depending on the occasion. For a casual look, pair the shirt with denim jeans and sneakers. For a more formal outfit, wear the shirt with dress pants and dress shoes. A beautiful orange art brings a modern and stripped look to the piece.",
+        "materials": ["cotton"],
+        "model": "Shirt",
+        "category": "Clothes",
+        "type": "Shirt",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_6.png",
+        "rating": {
+          "rate": 3.8,
+          "count": 78
+        }
+      },
+      {
+        "id": 69,
+        "title": "Shirt",
+        "color": ["white"],
+        "price": 48.00,
+        "description": "A white cotton shirt is a classic and timeless piece that should be in everyone's wardrobe. It is versatile and can be dressed up or down depending on the occasion. For a casual look, pair the shirt with denim jeans and sneakers. For a more formal outfit, wear the shirt with dress pants and dress shoes. A beautiful orange art brings a modern and stripped look to the piece.",
+        "materials": ["cotton"],
+        "model": "Shirt",
+        "category": "Clothes",
+        "type": "Shirt",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_7.png",
+        "rating": {
+          "rate": 3.8,
+          "count": 78
+        }
+      },
+      {
+        "id": 70,
+        "title": "Shirt",
+        "color": ["white"],
+        "price": 48.00,
+        "description": "A white cotton shirt is a classic and timeless piece that should be in everyone's wardrobe. It is versatile and can be dressed up or down depending on the occasion. For a casual look, pair the shirt with denim jeans and sneakers. For a more formal outfit, wear the shirt with dress pants and dress shoes. A beautiful orange art brings a modern and stripped look to the piece.",
+        "materials": ["cotton"],
+        "model": "Shirt",
+        "category": "Clothes",
+        "type": "Shirt",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_8.png",
+        "rating": {
+          "rate": 3.8,
+          "count": 78
+        }
+      },
+      {
+        "id": 71,
+        "title": "Shirt",
+        "color": ["white"],
+        "price": 48.00,
+        "description": "A white cotton shirt is a classic and timeless piece that should be in everyone's wardrobe. It is versatile and can be dressed up or down depending on the occasion. For a casual look, pair the shirt with denim jeans and sneakers. For a more formal outfit, wear the shirt with dress pants and dress shoes. A beautiful orange art brings a modern and stripped look to the piece.",
+        "materials": ["cotton"],
+        "model": "Shirt",
+        "category": "Clothes",
+        "type": "Shirt",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_9.png",
+        "rating": {
+          "rate": 3.8,
+          "count": 78
+        }
+      },
+      {
+        "id": 72,
+        "title": "Shirt",
+        "color": ["white"],
+        "price": 48.00,
+        "description": "A white cotton shirt is a classic and timeless piece that should be in everyone's wardrobe. It is versatile and can be dressed up or down depending on the occasion. For a casual look, pair the shirt with denim jeans and sneakers. For a more formal outfit, wear the shirt with dress pants and dress shoes. A beautiful orange art brings a modern and stripped look to the piece.",
+        "materials": ["cotton"],
+        "model": "Shirt",
+        "category": "Clothes",
+        "type": "Shirt",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shirt/Shirt_10.png",
+        "rating": {
+          "rate": 3.8,
+          "count": 78
+        }
       }
           
     ]
