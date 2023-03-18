@@ -159,6 +159,22 @@
           "rate": 4.5,
           "count": 46
         }
+      },
+      {
+        "id": 53,
+        "title": "Basic T-Shirt",
+        "color": ["white"],
+        "price": 39.00,
+        "description": "A plain white cotton t-shirt is a versatile and essential item for any wardrobe. It can be dressed up or down and pairs well with almost any outfit. You can wear it with jeans and sneakers for a casual look or dress it up with a blazer and heels for a more formal occasion. A beautiful blabla art brings a modern and stripped look to the piece.",
+        "materials": ["cotton"],
+        "model": "Basic T-Shirt",
+        "category": "Clothes",
+        "type": "T-Shirt",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/T-Shirt/T-Shirt_1.png",
+        "rating": {
+          "rate": 4.4,
+          "count": 81
+        }
       }
           
     ]
