@@ -1151,6 +1151,166 @@
       "rate": 2.4,
       "count": 140
     }
+  },
+  {
+    "id": 73,
+    "title": "Yellow Floralyng",
+    "color": ["green","yellow","white"],
+    "price": 85.00,
+    "description": "A pair of cotton shorts with a yellow floral pattern can be a great addition to your summer wardrobe. The bright and cheerful yellow color combined with the feminine floral pattern can add a touch of sunshine and happiness to any outfit. ",
+    "materials": ["cotton"],
+    "model": "Yellow Floralyng",
+    "category": "Clothes",
+    "type": "Shorts",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shorts/Shorts_1.png",
+    "rating": {
+      "rate": 3.3,
+      "count": 196
+    }
+  },
+  {
+    "id": 74,
+    "title": "flowers or Leaves",
+    "color": ["green"],
+    "price": 65.00,
+    "description": "A pair of cotton shorts with a green floral pattern can be a great addition to your summer wardrobe. The green color and floral pattern evoke a fresh and natural vibe, perfect for warm and sunny days.",
+    "materials": ["cotton"],
+    "model": "flowers or Leaves",
+    "category": "Clothes",
+    "type": "Shorts",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shorts/Shorts_2.png",
+    "rating": {
+      "rate": 4.8,
+      "count": 124
+    }
+  },
+  {
+    "id": 75,
+    "title": "Leaves and green",
+    "color": ["green"],
+    "price": 75.00,
+    "description": "A pair of cotton shorts with a green floral pattern can be a great addition to your summer wardrobe. The green color and floral pattern evoke a fresh and natural vibe, perfect for warm and sunny days.",
+    "materials": ["cotton"],
+    "model": "Leaves and green",
+    "category": "Clothes",
+    "type": "Shorts",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shorts/Shorts_3.png",
+    "rating": {
+      "rate": 3.2,
+      "count": 96
+    }
+  },
+  {
+    "id": 76,
+    "title": "Basic White One",
+    "color": ["white"],
+    "price": 69.00,
+    "description": "A pair of white cotton shorts is a versatile and classic addition to any summer wardrobe. White shorts can be dressed up or down depending on the occasion, making them a great option for a variety of outfits. ",
+    "materials": ["cotton"],
+    "model": "Basic White One",
+    "category": "Clothes",
+    "type": "Shorts",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shorts/Shorts_4.png",
+    "rating": {
+      "rate": 3.3,
+      "count": 98
+    }
+  },
+  {
+    "id": 77,
+    "title": "Classical",
+    "color": ["black","gold"],
+    "price": 76.00,
+    "description": "A pair of cotton shorts with black and gold pattern colors can add a touch of sophistication and glamour to any outfit. The black and gold pattern can create a bold and eye-catching look that is perfect for a night out or a special occasion. ",
+    "materials": ["cotton"],
+    "model": "Classical",
+    "category": "Clothes",
+    "type": "Shorts",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shorts/Shorts_5.png",
+    "rating": {
+      "rate": 2.3,
+      "count": 39
+    }
+  },
+  {
+    "id": 78,
+    "title": "Red Ready",
+    "color": ["red","white"],
+    "price": 69.00,
+    "description": "A pair of cotton shorts in a vibrant red color with white details can be a fun and stylish addition to your summer wardrobe. The bright red hue is perfect for adding a pop of color to your outfit, while the white details provide a nice contrast. ",
+    "materials": ["cotton"],
+    "model": "Red Ready",
+    "category": "Clothes",
+    "type": "Shorts",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shorts/Shorts_6.png",
+    "rating": {
+      "rate": 3.5,
+      "count": 46
+    }
+  },
+  {
+    "id": 79,
+    "title": "Floral Blue",
+    "color": ["blue","white"],
+    "price": 86.00,
+    "description": "A pair of cotton shorts in a vibrant red color with white details can be a stylish addition to any summer wardrobe. The bold color is perfect for making a statement, while the white details add a touch of contrast and interest. These shorts can be paired with a white t-shirt or tank top for a casual and comfortable look, or dressed up with a black blouse and heels for a more formal occasion. ",
+    "materials": ["cotton"],
+    "model": "Floral Blue",
+    "category": "Clothes",
+    "type": "Shorts",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shorts/Shorts_7.png",
+    "rating": {
+      "rate": 4.7,
+      "count": 73
+    }
+  },
+  {
+    "id": 80,
+    "title": "Stripes and Stripes",
+    "color": ["black","white"],
+    "price": 66.00,
+    "description": "A pair of cotton shorts with black and white stripes can be a versatile addition to your summer wardrobe. The classic pattern creates a timeless and stylish look that can be dressed up or down depending on the occasion. For a casual outfit, pair the shorts with a plain white t-shirt and sneakers. To elevate the look for a night out, add a black blouse and strappy sandals. Another option is to play with pattern mixing and pair the shorts with a black and white polka dot top or a striped blouse in a different direction.",
+    "materials": ["cotton"],
+    "model": "Stripes and Stripes",
+    "category": "Clothes",
+    "type": "Shorts",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shorts/Shorts_8.png",
+    "rating": {
+      "rate": 2.7,
+      "count": 23
+    }
+  },
+  {
+    "id": 81,
+    "title": "Tribe Vibes",
+    "color": ["green","orange"],
+    "price": 79.00,
+    "description": "A cotton Shorts in green and orange can be a great choice for a fun and lively outfit. The combination of green and orange creates a playful and energetic look. You can pair the shirt with denim Shorts or pants for a casual daytime look, or dress it up with black or white trousers for a more polished appearance. ",
+    "materials": ["cotton"],
+    "model": "Tribe Vibes",
+    "category": "Clothes",
+    "type": "Shorts",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shorts/Shorts_9.png",
+    "rating": {
+      "rate": 3.1,
+      "count": 136
+    }
+  },
+  {
+    "id": 82,
+    "title": "Jungle One",
+    "color": ["green","orange"],
+    "price": 59.00,
+    "description": "A cotton Shorts in green and orange can be a great choice for a fun and lively outfit. The combination of green and orange creates a playful and energetic look. You can pair the shirt with denim Shorts or pants for a casual daytime look, or dress it up with black or white trousers for a more polished appearance. ",
+    "materials": ["cotton"],
+    "model": "Jungle One",
+    "category": "Clothes",
+    "type": "Shorts",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shorts/Shorts_10.png",
+    "rating": {
+      "rate": 4.2,
+      "count":73
+    }
   }
    
 ]
