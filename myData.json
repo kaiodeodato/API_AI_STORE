@@ -1,69 +1,677 @@
 {
 "results":[
-    {
-        "id": 1,
-        "title": "Cowboy One",
-        "color": ["brown","white"],
-        "price": 75.00,
-        "description": "The cowboy boot is a classic American footwear style that originated in the Wild West. These boots are designed to withstand the rugged conditions of ranch life and horseback riding, and have become a popular fashion statement across the country.",
-        "materials": ["leather","suede"],
-        "model": "Cowboy One",
-        "category": "Shoes",
-        "type": "Boots",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_1.png",
-        "rating": {
-          "rate": 4.5,
-          "count": 111
-        }
-      },
-      {
-        "id": 2,
-        "title": "Classic Black",
-        "color": ["black"],
-        "price": 67.00,
-        "description": "A classic black social shoe is a timeless dress shoe that is a staple in any formal or semi-formal wardrobe. Typically made from high-quality leather or suede, these shoes are designed to be sleek, sophisticated, and versatile.",
-        "materials": ["leather"],
-        "model": "Classic Black",
-        "category": "Shoes",
-        "type": "Boots",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_2.png",
-        "rating": {
-          "rate": 4.9,
-          "count": 251
-        }
-      },
-      {
-        "id": 3,
-        "title": "Yellow Boom",
-        "color": ["yellow"],
-        "price": 59.00,
-        "description": "A yellow leather boot is a bold and stylish footwear choice that can add a pop of color to any outfit. There are many different styles of yellow leather boots available, from classic work boots to fashion-forward ankle boots.",
-        "materials": ["leather"],
-        "model": "Yellow Boom",
-        "category": "Shoes",
-        "type": "Boots",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_3.png",
-        "rating": {
-          "rate": 2.9,
-          "count": 42
-        }
-      },
-      {
-        "id": 4,
-        "title": "Classic Two Tones",
-        "color": ["brown"],
-        "price": 99.00,
-        "description": "A two-toned leather boot is a unique and stylish footwear choice that can add a touch of sophistication to any outfit. These boots typically feature two different shades of leather or suede, often in contrasting colors or textures, creating a distinctive and eye-catching look.",
-        "materials": ["leather","suede"],
-        "model": "Classic Two Tones",
-        "category": "Shoes",
-        "type": "Boots",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_4.png",
-        "rating": {
-          "rate": 2.9,
-          "count": 42
-        }
-      }
+  {
+    "id": 1,
+    "title": "Cowboy One",
+    "color": ["brown","white"],
+    "price": 78.00,
+    "description": "The cowboy boot is a classic American footwear style that originated in the Wild West. These boots are designed to withstand the rugged conditions of ranch life and horseback riding, and have become a popular fashion statement across the country.",
+    "materials": ["leather","suede"],
+    "model": "Cowboy One",
+    "category": "Shoes",
+    "type": "Boots",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_1.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 111
+    }
+  },
+  {
+    "id": 2,
+    "title": "Classic Black",
+    "color": ["black"],
+    "price": 132.00,
+    "description": "A classic black social shoe is a timeless dress shoe that is a staple in any formal or semi-formal wardrobe. Typically made from high-quality leather or suede, these shoes are designed to be sleek, sophisticated, and versatile.",
+    "materials": ["leather"],
+    "model": "Classic Black",
+    "category": "Shoes",
+    "type": "Boots",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_2.png",
+    "rating": {
+      "rate": 4.9,
+      "count": 251
+    }
+  },
+  {
+    "id": 3,
+    "title": "Yellow Boom",
+    "color": ["yellow"],
+    "price": 120.00,
+    "description": "A yellow leather boot is a bold and stylish footwear choice that can add a pop of color to any outfit. There are many different styles of yellow leather boots available, from classic work boots to fashion-forward ankle boots.",
+    "materials": ["leather"],
+    "model": "Yellow Boom",
+    "category": "Shoes",
+    "type": "Boots",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_3.png",
+    "rating": {
+      "rate": 2.8,
+      "count": 68
+    }
+  },
+  {
+    "id": 4,
+    "title": "Classic Two Tones",
+    "color": ["brown"],
+    "price": 99.00,
+    "description": "A two-toned leather boot is a unique and stylish footwear choice that can add a touch of sophistication to any outfit. These boots typically feature two different shades of leather or suede, often in contrasting colors or textures, creating a distinctive and eye-catching look.",
+    "materials": ["leather","suede"],
+    "model": "Classic Two Tones",
+    "category": "Shoes",
+    "type": "Boots",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_4.png",
+    "rating": {
+      "rate": 3.9,
+      "count": 75
+    }
+  },
+  {
+    "id": 5,
+    "title": "Leather Vibes",
+    "color": ["brown"],
+    "price": 89.00,
+    "description": "A dark leather shoe is a classic and versatile footwear option that can be dressed up or down for any occasion. These shoes are typically made from high-quality leather and feature a sleek and understated design that is perfect for both formal and casual wear.",
+    "materials": ["leather"],
+    "model": "Leather Vibes",
+    "category": "Shoes",
+    "type": "Boots",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_5.png",
+    "rating": {
+      "rate": 5.0,
+      "count": 99
+    }
+  },
+  {
+    "id": 6,
+    "title": "Red Cowboy",
+    "color": ["white","red"],
+    "price": 79.00,
+    "description": "A red cowboy shoe is a bold and eye-catching footwear choice that can add a pop of color and personality to any outfit. These boots are typically made from high-quality leather and feature a classic Western design with pointed toes, angled heels, and decorative stitching.",
+    "materials": ["leather"],
+    "model": "Red Cowboy",
+    "category": "Shoes",
+    "type": "Boots",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_6.png",
+    "rating": {
+      "rate": 4.3,
+      "count": 68
+    }
+  },
+  {
+    "id": 7,
+    "title": "Vampire Night",
+    "color": ["black","red"],
+    "price": 66.00,
+    "description": "A vampire black boot is a unique and stylish footwear option that is often associated with gothic or alternative fashion. These boots typically feature a sleek and edgy design with high-quality materials and attention-grabbing details.",
+    "materials": ["leather","textile"],
+    "model": "Vampire Night",
+    "category": "Shoes",
+    "type": "Boots",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_7.png",
+    "rating": {
+      "rate": 4.9,
+      "count": 49
+    }
+  },
+  {
+    "id": 8,
+    "title": "Basic View One",
+    "color": ["brown"],
+    "price": 45.00,
+    "description": "A basic brown boot is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These boots typically feature a simple and understated design with a classic silhouette and high-quality materials.",
+    "materials": ["leather"],
+    "model": "Basic View One",
+    "category": "Shoes",
+    "type": "Boots",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_8.png",
+    "rating": {
+      "rate": 2.3,
+      "count": 73
+    }
+  },
+  {
+    "id": 9,
+    "title": "Basic View Two",
+    "color": ["brown"],
+    "price": 68.00,
+    "description": "A basic brown boot is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These boots typically feature a simple and understated design with a classic silhouette and high-quality materials.",
+    "materials": ["leather"],
+    "model": "Basic View Two",
+    "category": "Shoes",
+    "type": "Boots",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_9.png",
+    "rating": {
+      "rate": 4.7,
+      "count":352
+    }
+  },
+  {
+    "id": 10,
+    "title": "Old Blue",
+    "color": ["blue"],
+    "price": 85.00,
+    "description": "A basic old-style blue boot is a stylish and versatile footwear option that can add a unique and vintage-inspired touch to any outfit. These boots typically feature a classic design with high-quality materials and a durable construction that is built to last.",
+    "materials": ["leather"],
+    "model": "Old Blue",
+    "category": "Shoes",
+    "type": "Boots",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_10.png",
+    "rating": {
+      "rate": 3.5,
+      "count": 45
+    }
+  },
+  {
+    "id": 11,
+    "title": "Purple Rain",
+    "color": ["purple"],
+    "price": 75.00,
+    "description": "A basic old-style purple boot is a unique and stylish footwear choice that can add a pop of color and personality to any outfit. These boots typically feature a classic design with high-quality materials and a durable construction that is built to last.",
+    "materials": ["leather"],
+    "model": "Purple Rain",
+    "category": "Shoes",
+    "type": "Boots",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Boots/Boots_11.png",
+    "rating": {
+      "rate": 4.3,
+      "count": 196
+    }
+  },
+  {
+    "id": 12,
+    "title": "Brown Tones",
+    "color": ["brown"],
+    "price": 86.00,
+    "description": "A classic shoe with two tones of brown is a stylish and sophisticated footwear option that can add a touch of elegance to any outfit. These shoes typically feature a classic design with two different shades of brown leather, often in complementary hues that create a subtle contrast.",
+    "materials": ["leather"],
+    "model": "Brown Tones",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_1.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 176
+    }
+  },
+  {
+    "id": 13,
+    "title": "Basic Brown",
+    "color": ["brown"],
+    "price": 129.00,
+    "description": "A classic brown shoe is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These shoes typically feature a simple and understated design with a classic silhouette and high-quality materials.",
+    "materials": ["leather"],
+    "model": "Basic Brown",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_2.png",
+    "rating": {
+      "rate": 3.5,
+      "count": 196
+    }
+  },
+  {
+    "id": 14,
+    "title": "Basic Black",
+    "color": ["black"],
+    "price": 142.00,
+    "description": "A classic black shoe is a versatile and sophisticated footwear option that can be worn for both formal and casual occasions. These shoes typically feature a sleek and understated design with a high-quality leather or synthetic upper and a durable rubber or leather sole.",
+    "materials": ["leather"],
+    "model": "Basic Black",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_3.png",
+    "rating": {
+      "rate": 3.8,
+      "count": 26
+    }
+  },
+  {
+    "id": 15,
+    "title": "Red Night",
+    "color": ["black","red"],
+    "price": 75.00,
+    "description": "A classic shoe with black and red colors is a stylish and unique footwear option that can add a pop of color and personality to any outfit. These shoes typically feature a classic design with a black leather or synthetic upper and red accents, often in the form of piping, stitching, or laces.",
+    "materials": ["leather"],
+    "model": "Red Night",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_4.png",
+    "rating": {
+      "rate": 3.5,
+      "count": 36
+    }
+  },
+  {
+    "id": 16,
+    "title": "Blue Glipsy",
+    "color": ["black","blue"],
+    "price": 69.00,
+    "description": "A classic black shoe with a blue detail is a stylish and versatile footwear option that can add a subtle pop of color to any outfit.",
+    "materials": ["leather"],
+    "model": "Blue Glipsy",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_5.png",
+    "rating": {
+      "rate": 3.5,
+      "count": 66
+    }
+  },
+  {
+    "id": 17,
+    "title": "Star Peach",
+    "color": ["white","peach"],
+    "price": 78.00,
+    "description": "A classic white and peach color shoe is a stylish and unique footwear option that can add a fresh and summery touch to any outfit. These shoes typically feature a clean and minimalist design with a white leather or synthetic upper and peach accents, often in the form of detailing, stitching, or laces.",
+    "materials": ["leather"],
+    "model": "Star Peach",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_6.png",
+    "rating": {
+      "rate": 3.5,
+      "count": 98
+    }
+  },
+  {
+    "id": 18,
+    "title": "B&W One",
+    "color": ["black","white"],
+    "price": 65.00,
+    "description": "A classic black and white shoe is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These shoes typically feature a simple and understated design with a black and white color scheme, often in the form of contrasting panels, stripes, or accents.",
+    "materials": ["leather"],
+    "model": "B&W One",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_7.png",
+    "rating": {
+      "rate": 3.5,
+      "count": 120
+    }
+  },
+  {
+    "id": 19,
+    "title": "B&W Two",
+    "color": ["black","white"],
+    "price": 75.00,
+    "description": "A classic black and white shoe is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These shoes typically feature a simple and understated design with a black and white color scheme, often in the form of contrasting panels, stripes, or accents.",
+    "materials": ["leather"],
+    "model": "B&W Two",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_8.png",
+    "rating": {
+      "rate": 4.2,
+      "count": 84
+    }
+  },
+  {
+    "id": 20,
+    "title": "B&W Three",
+    "color": ["black","white"],
+    "price": 76.00,
+    "description": "A classic black and white shoe is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These shoes typically feature a simple and understated design with a black and white color scheme, often in the form of contrasting panels, stripes, or accents.",
+    "materials": ["leather"],
+    "model": "B&W Three",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_9.png",
+    "rating": {
+      "rate": 3.3,
+      "count": 156
+    }
+  },
+  {
+    "id": 21,
+    "title": "Social Brown",
+    "color": ["brown"],
+    "price": 99.00,
+    "description": "A classic brown shoe is a timeless and versatile footwear option that can be worn with a wide range of outfits and styles. These shoes typically feature a simple and understated design with a classic silhouette and high-quality materials.",
+    "materials": ["leather"],
+    "model": "Social Brown",
+    "category": "Shoes",
+    "type": "Classic",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Classic/Classic_10.png",
+    "rating": {
+      "rate": 2.5,
+      "count": 75
+    }
+  },
+  {
+    "id": 22,
+    "title": "Basic Black",
+    "color": ["Black","white"],
+    "price": 144.00,
+    "description": "A sport black and white shoe is a functional and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["leather","canvas","nylon"],
+    "model": "Basic Black",
+    "category": "Shoes",
+    "type": "Sport",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_1.png",
+    "rating": {
+      "rate": 3.5,
+      "count": 96
+    }
+  },
+  {
+    "id": 23,
+    "title": "Red Vibes",
+    "color": ["Black","red","white"],
+    "price": 153.00,
+    "description": "A sport black, red, and white shoe is a bold and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, red, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["polyester","canvas","nylon"],
+    "model": "Red Vibes",
+    "category": "Shoes",
+    "type": "Sport",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_2.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 175
+    }
+  },
+  {
+    "id": 24,
+    "title": "Sport yellow",
+    "color": ["Black","white","yellow"],
+    "price": 45.00,
+    "description": "A sport black, yellow, and white shoe is a vibrant and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, yellow, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["leather","polyester","canvas","nylon"],
+    "model": "Sport yellow",
+    "category": "Shoes",
+    "type": "Sport",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_3.png",
+    "rating": {
+      "rate": 3.7,
+      "count": 105
+    }
+  },
+  {
+    "id": 25,
+    "title": "Sport yellow Two",
+    "color": ["Black","white","yellow"],
+    "price": 132.00,
+    "description": "A sport black, yellow, and white shoe is a vibrant and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, yellow, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["polyester","canvas","nylon"],
+    "model": "Sport yellow Two",
+    "category": "Shoes",
+    "type": "Sport",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_4.png",
+    "rating": {
+      "rate": 3.2,
+      "count": 124
+    }
+  },
+  {
+    "id": 26,
+    "title": "Sport Grass",
+    "color": ["green","white"],
+    "price": 96.00,
+    "description": "A sport green and white shoe is a fresh and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a green and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["canvas","nylon"],
+    "model": "Sport Grass",
+    "category": "Shoes",
+    "type": "Sport",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_5.png",
+    "rating": {
+      "rate": 2.4,
+      "count": 103
+    }
+  },
+  {
+    "id": 27,
+    "title": "Sport Sky",
+    "color": ["blue","white"],
+    "price": 81.00,
+    "description": "A sport blue and white shoe is a cool and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a blue and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["leather","polyester","canvas","nylon"],
+    "model": "Sport Sky",
+    "category": "Shoes",
+    "type": "Sport",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_6.png",
+    "rating": {
+      "rate": 5.0,
+      "count": 152
+    }
+  },
+  {
+    "id": 28,
+    "title": "Gray Run",
+    "color": ["Black","grey","white"],
+    "price": 69.00,
+    "description": "A sport black, gray, and white shoe is a sleek and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, gray, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["polyester","canvas","nylon"],
+    "model": "Gray Run",
+    "category": "Shoes",
+    "type": "Sport",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_7.png",
+    "rating": {
+      "rate": 4.4,
+      "count": 195
+    }
+  },
+  {
+    "id": 29,
+    "title": "Basic Blue",
+    "color": ["black","blue","white"],
+    "price": 83.00,
+    "description": "A sport black, blue, and white shoe is a bold and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, blue, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["polyester","nylon"],
+    "model": "Basic Blue",
+    "category": "Shoes",
+    "type": "Sport",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_8.png",
+    "rating": {
+      "rate": 3.6,
+      "count": 132
+    }
+  },
+  {
+    "id": 30,
+    "title": "Basic B&W",
+    "color": ["Black","white"],
+    "price": 78.00,
+    "description": "A sport black and white shoe is a classic and versatile footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["polyester","canvas"],
+    "model": "Basic B&W",
+    "category": "Shoes",
+    "type": "Sport",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_9.png",
+    "rating": {
+      "rate": 2.9,
+      "count": 67
+    }
+  },
+  {
+    "id": 31,
+    "title": "Orange Dream",
+    "color": ["Black","orange","white"],
+    "price": 96.00,
+    "description": "A sport black, orange, and white shoe is a striking and stylish footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with a black, orange, and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["polyester","canvas","nylon"],
+    "model": "Orange Dream",
+    "category": "Shoes",
+    "type": "Sport",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_10.png",
+    "rating": {
+      "rate": 4.7,
+      "count": 165
+    }
+  },
+  {
+    "id": 32,
+    "title": "Golden Years",
+    "color": ["gold","white"],
+    "price": 159.00,
+    "description": "A sport gold and white shoe is a flashy and eye-catching footwear option designed for athletic activities. These shoes typically feature a lightweight and breathable design with gold and white color scheme, often in the form of mesh or knit uppers and contrasting accents.",
+    "materials": ["canvas","nylon"],
+    "model": "Golden Years",
+    "category": "Shoes",
+    "type": "Sport",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Sport/Sport_11.png",
+    "rating": {
+      "rate": 3.4,
+      "count": 203
+    }
+  },
+  {
+    "id": 33,
+    "title": "Fashion purple",
+    "color": ["purple"],
+    "price": 169.00,
+    "description": "A classy heel with a purple color is a stunning and sophisticated footwear option, perfect for adding a pop of color to any outfit. These heels often feature a sleek and simple design, with a pointed or rounded toe, stiletto or block heel, and a comfortable footbed.",
+    "materials": ["leather"],
+    "model": "Fashion purple",
+    "category": "Shoes",
+    "type": "Heels",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_1.png",
+    "rating": {
+      "rate": 3.9,
+      "count": 145
+    }
+  },
+  {
+    "id": 34,
+    "title": "Kiss",
+    "color": ["red"],
+    "price": 96.00,
+    "description": "A red heel is a classic and timeless choice for any shoe collection, and can add a bold and confident touch to any outfit. These heels come in a variety of styles, from sleek and sophisticated pumps to strappy sandals and trendy mules.",
+    "materials": ["leather"],
+    "model": "Kiss",
+    "category": "Shoes",
+    "type": "Heels",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_2.png",
+    "rating": {
+      "rate": 3.3,
+      "count": 132
+    }
+  },
+  {
+    "id": 35,
+    "title": "Sunrise",
+    "color": ["yellow"],
+    "price": 127.00,
+    "description": "Introducing the new yellow heels, the perfect statement piece to complete any outfit. These elegant shoes feature a pointed toe and a sleek stiletto heel, designed to elongate your legs and add a touch of sophistication to your look. The buttery yellow leather upper adds a bold pop of color, while the cushioned footbed ensures a comfortable fit, making these heels ideal for all-day wear. Whether paired with a little black dress or your favorite jeans, these yellow heels are sure to turn heads and elevate your style.",
+    "materials": ["leather"],
+    "model": "Sunrise",
+    "category": "Shoes",
+    "type": "Heels",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_3.png",
+    "rating": {
+      "rate": 2.9,
+      "count": 215
+    }
+  },
+  {
+    "id": 36,
+    "title": "Victorian Blue",
+    "color": ["blue"],
+    "price": 86.00,
+    "description": "Step into the past with these Victorian Blue heels, inspired by the elegant and intricate designs of the Victorian era. These heels feature a classic pointed toe, a comfortable cushioned footbed, and a delicate ankle strap that secures the shoe in place.",
+    "materials": ["leather"],
+    "model": "Victorian Blue",
+    "category": "Shoes",
+    "type": "Heels",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_4.png",
+    "rating": {
+      "rate": 3.1,
+      "count": 98
+    }
+  },
+  {
+    "id": 37,
+    "title": "Yellow Detail",
+    "color": ["yellow"],
+    "price": 127.00,
+    "description": "Make a bold statement with these yellow heels that are sure to turn heads. The sleek design features a pointed toe and a slender stiletto heel that adds a touch of sophistication to your outfit. The vibrant yellow hue is eye-catching and playful, perfect for adding a pop of color to any outfit. The shoe is made with high-quality materials to ensure durability and comfort, with a cushioned footbed to keep your feet feeling great all day long.",
+    "materials": ["suede"],
+    "model": "Yellow Detail",
+    "category": "Shoes",
+    "type": "Heels",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_5.png",
+    "rating": {
+      "rate": 3.6,
+      "count": 186
+    }
+  },
+  {
+    "id": 38,
+    "title": "Basic White",
+    "color": ["white"],
+    "price": 145.00,
+    "description": "These elegant heels feature a timeless design that can be worn for any occasion. The smooth, white color upper exudes sophistication and refinement, while the pointed toe and slim heel add a touch of femininity. The shoe's ankle strap provides additional support and enhances the wearer's silhouette. The lightly padded footbed ensures all-day comfort, making these heels ideal for both work and play. Perfect for weddings, graduations, and other formal events, these white heels are a versatile addition to any wardrobe.",
+    "materials": ["leather","suede"],
+    "model": "Basic White",
+    "category": "Shoes",
+    "type": "Heels",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_6.png",
+    "rating": {
+      "rate": 3.6,
+      "count": 138
+    }
+  },
+  {
+    "id": 39,
+    "title": "Silver Glow",
+    "color": ["silver"],
+    "price": 99.00,
+    "description": "This stunning heels shoe in a sleek silver shade is the perfect choice for any formal occasion. The elegant design features a pointed toe and a slim stiletto heel, creating a flattering and sophisticated silhouette. The shoe is crafted from high-quality materials, with a glossy patent finish that catches the light beautifully.",
+    "materials": ["leather","suede"],
+    "model": "Silver Glow",
+    "category": "Shoes",
+    "type": "Heels",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_7.png",
+    "rating": {
+      "rate": 3.7,
+      "count": 193
+    }
+  },
+  {
+    "id": 40,
+    "title": "Roman",
+    "color": ["Bronze"],
+    "price": 94.00,
+    "description": "Introducing the Roman, a stunning bronze-colored heels shoe that will add a touch of elegance to any outfit. These classic heels are made from high-quality materials and feature a sleek design that will never go out of style. ",
+    "materials": ["polyester"],
+    "model": "Roman",
+    "category": "Shoes",
+    "type": "Heels",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_8.png",
+    "rating": {
+      "rate": 3.5,
+      "count": 256
+    }
+  },
+  {
+    "id": 41,
+    "title": "The Crown One",
+    "color": ["gold"],
+    "price": 139.00,
+    "description": "Introducing The Crown One - a stunning pair of heels that will make you feel like royalty. These elegant shoes feature a lustrous gold color that exudes luxury and sophistication. The slim, high heel elongates the leg and creates a sleek silhouette, while the cushioned footbed ensures comfort with every step.",
+    "materials": ["polyester"],
+    "model": "The Crown One",
+    "category": "Shoes",
+    "type": "Heels",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_9.png",
+    "rating": {
+      "rate": 4.7,
+      "count": 175
+    }
+  },
+  {
+    "id": 42,
+    "title": "The Crown Two",
+    "color": ["gold"],
+    "price": 76.00,
+    "description": "Introducing The Crown Two - a stunning pair of heels that will make you feel like royalty. These elegant shoes feature a lustrous gold color that exudes luxury and sophistication. The slim, high heel elongates the leg and creates a sleek silhouette, while the cushioned footbed ensures comfort with every step.",
+    "materials": ["polyester"],
+    "model": "The Crown Two",
+    "category": "Shoes",
+    "type": "Heels",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Shoes/Heels/Heels_10.png",
+    "rating": {
+      "rate": 3.8,
+      "count": 75
+    }
+  }
       
     ]
 }
