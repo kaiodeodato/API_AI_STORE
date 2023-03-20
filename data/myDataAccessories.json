@@ -170,7 +170,7 @@
         "model": "Abstract Head",
         "category": "Accessories",
         "type": "Caps",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_1.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Caps/Caps_1.png",
         "rating": {
           "rate": 3.1,
           "count":146
@@ -186,7 +186,7 @@
         "model": "Abstract Head Two",
         "category": "Accessories",
         "type": "Caps",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_2.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Caps/Caps_2.png",
         "rating": {
           "rate": 3.8,
           "count":106
@@ -202,7 +202,7 @@
         "model": "Abstract Head Three",
         "category": "Accessories",
         "type": "Caps",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_3.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Caps/Caps_3.png",
         "rating": {
           "rate": 3.3,
           "count":156
@@ -218,7 +218,7 @@
         "model": "Royal Blue",
         "category": "Accessories",
         "type": "Caps",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_4.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Caps/Caps_4.png",
         "rating": {
           "rate": 4.8,
           "count":263
@@ -234,7 +234,7 @@
         "model": "White Curves",
         "category": "Accessories",
         "type": "Caps",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_5.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Caps/Caps_5.png",
         "rating": {
           "rate": 2.7,
           "count":362
@@ -250,7 +250,7 @@
         "model": "Social Blue Club",
         "category": "Accessories",
         "type": "Caps",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_6.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Caps/Caps_6.png",
         "rating": {
           "rate": 4.6,
           "count":165
@@ -266,7 +266,7 @@
         "model": "New Way",
         "category": "Accessories",
         "type": "Caps",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_7.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Caps/Caps_7.png",
         "rating": {
           "rate": 3.9,
           "count":171
@@ -282,7 +282,7 @@
         "model": "Social Red Club",
         "category": "Accessories",
         "type": "Caps",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_8.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Caps/Caps_8.png",
         "rating": {
           "rate": 2.6,
           "count":154
@@ -298,7 +298,7 @@
         "model": "Flame One",
         "category": "Accessories",
         "type": "Caps",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_9.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Caps/Caps_9.png",
         "rating": {
           "rate": 2.9,
           "count":196
@@ -314,7 +314,167 @@
         "model": "Flame Two",
         "category": "Accessories",
         "type": "Caps",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_10.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Caps/Caps_10.png",
+        "rating": {
+          "rate": 3.5,
+          "count":136
+        }
+      },
+      {
+        "id": 123,
+        "title": "Title",
+        "color": ["white","yellow"],
+        "price": 26.00,
+        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "materials": ["cotton"],
+        "model": "Title",
+        "category": "Accessories",
+        "type": "Beanie",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_1.png",
+        "rating": {
+          "rate": 3.5,
+          "count":136
+        }
+      },
+      {
+        "id": 123,
+        "title": "Title",
+        "color": ["white","yellow"],
+        "price": 26.00,
+        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "materials": ["cotton"],
+        "model": "Title",
+        "category": "Accessories",
+        "type": "Beanie",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_2.png",
+        "rating": {
+          "rate": 3.5,
+          "count":136
+        }
+      },
+      {
+        "id": 123,
+        "title": "Title",
+        "color": ["white","yellow"],
+        "price": 26.00,
+        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "materials": ["cotton"],
+        "model": "Title",
+        "category": "Accessories",
+        "type": "Beanie",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_3.png",
+        "rating": {
+          "rate": 3.5,
+          "count":136
+        }
+      },
+      {
+        "id": 123,
+        "title": "Title",
+        "color": ["white","yellow"],
+        "price": 26.00,
+        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "materials": ["cotton"],
+        "model": "Title",
+        "category": "Accessories",
+        "type": "Beanie",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_4.png",
+        "rating": {
+          "rate": 3.5,
+          "count":136
+        }
+      },
+      {
+        "id": 123,
+        "title": "Title",
+        "color": ["white","yellow"],
+        "price": 26.00,
+        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "materials": ["cotton"],
+        "model": "Title",
+        "category": "Accessories",
+        "type": "Beanie",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_5.png",
+        "rating": {
+          "rate": 3.5,
+          "count":136
+        }
+      },
+      {
+        "id": 123,
+        "title": "Title",
+        "color": ["white","yellow"],
+        "price": 26.00,
+        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "materials": ["cotton"],
+        "model": "Title",
+        "category": "Accessories",
+        "type": "Beanie",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_6.png",
+        "rating": {
+          "rate": 3.5,
+          "count":136
+        }
+      },
+      {
+        "id": 123,
+        "title": "Title",
+        "color": ["white","yellow"],
+        "price": 26.00,
+        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "materials": ["cotton"],
+        "model": "Title",
+        "category": "Accessories",
+        "type": "Beanie",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_7.png",
+        "rating": {
+          "rate": 3.5,
+          "count":136
+        }
+      },
+      {
+        "id": 123,
+        "title": "Title",
+        "color": ["white","yellow"],
+        "price": 26.00,
+        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "materials": ["cotton"],
+        "model": "Title",
+        "category": "Accessories",
+        "type": "Beanie",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_8.png",
+        "rating": {
+          "rate": 3.5,
+          "count":136
+        }
+      },
+      {
+        "id": 123,
+        "title": "Title",
+        "color": ["white","yellow"],
+        "price": 26.00,
+        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "materials": ["cotton"],
+        "model": "Title",
+        "category": "Accessories",
+        "type": "Beanie",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_9.png",
+        "rating": {
+          "rate": 3.5,
+          "count":136
+        }
+      },
+      {
+        "id": 123,
+        "title": "Title",
+        "color": ["white","yellow"],
+        "price": 26.00,
+        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "materials": ["cotton"],
+        "model": "Title",
+        "category": "Accessories",
+        "type": "Beanie",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_10.png",
         "rating": {
           "rate": 3.5,
           "count":136
