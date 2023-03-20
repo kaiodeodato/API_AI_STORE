@@ -322,162 +322,162 @@
       },
       {
         "id": 123,
-        "title": "Title",
-        "color": ["white","yellow"],
+        "title": "Flame Three",
+        "color": ["red","white","yellow"],
         "price": 26.00,
-        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "description": "This stylish beanie features a great design that will make a statement. This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
         "materials": ["cotton"],
-        "model": "Title",
+        "model": "Flame Three",
         "category": "Accessories",
         "type": "Beanie",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_1.png",
         "rating": {
-          "rate": 3.5,
-          "count":136
+          "rate": 3.1,
+          "count":156
         }
       },
       {
         "id": 123,
-        "title": "Title",
-        "color": ["white","yellow"],
+        "title": "Serious Brown",
+        "color": ["brown"],
         "price": 26.00,
-        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "description": "This comfortable beanie features a unique design that will add a touch of style to any look. This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
         "materials": ["cotton"],
-        "model": "Title",
+        "model": "Serious Brown",
         "category": "Accessories",
         "type": "Beanie",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_2.png",
         "rating": {
-          "rate": 3.5,
-          "count":136
+          "rate": 4.5,
+          "count":125
         }
       },
       {
         "id": 123,
-        "title": "Title",
-        "color": ["white","yellow"],
+        "title": "Stripes Head",
+        "color": ["blue","yellow"],
         "price": 26.00,
-        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "description": "This lightweight beanie features a vibrant design that will brighten up any day. This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
         "materials": ["cotton"],
-        "model": "Title",
+        "model": "Stripes Head",
         "category": "Accessories",
         "type": "Beanie",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_3.png",
         "rating": {
-          "rate": 3.5,
-          "count":136
+          "rate": 3.2,
+          "count":195
         }
       },
       {
         "id": 123,
-        "title": "Title",
-        "color": ["white","yellow"],
+        "title": "Yellow mind",
+        "color": ["yellow"],
         "price": 26.00,
-        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "description": ". This breathable beanie features a playful design that will keep you cool and comfortable.This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
         "materials": ["cotton"],
-        "model": "Title",
+        "model": "Yellow mind",
         "category": "Accessories",
         "type": "Beanie",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_4.png",
         "rating": {
-          "rate": 3.5,
+          "rate": 3.8,
           "count":136
         }
       },
       {
         "id": 123,
-        "title": "Title",
-        "color": ["white","yellow"],
+        "title": "Shading",
+        "color": ["green","white"],
         "price": 26.00,
-        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "description": " This durable beanie features a bold design that will last through any activity. This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
         "materials": ["cotton"],
-        "model": "Title",
+        "model": "Shading",
         "category": "Accessories",
         "type": "Beanie",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_5.png",
         "rating": {
-          "rate": 3.5,
-          "count":136
+          "rate": 2.7,
+          "count":196
         }
       },
       {
         "id": 123,
-        "title": "Title",
-        "color": ["white","yellow"],
+        "title": "Orange Mood",
+        "color": ["orange"],
         "price": 26.00,
-        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "description": " This stretchy beanie features a stylish design that will provide a perfect fit.This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
         "materials": ["cotton"],
-        "model": "Title",
+        "model": "Orange Mood",
         "category": "Accessories",
         "type": "Beanie",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_6.png",
         "rating": {
-          "rate": 3.5,
-          "count":136
+          "rate": 4.5,
+          "count":236
         }
       },
       {
         "id": 123,
-        "title": "Title",
-        "color": ["white","yellow"],
+        "title": "Basic Morning",
+        "color": ["blue","white"],
         "price": 26.00,
-        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "description": " This absorbent beanie features an eye-catching design that will keep you dry.This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
         "materials": ["cotton"],
-        "model": "Title",
+        "model": "Basic Morning",
         "category": "Accessories",
         "type": "Beanie",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_7.png",
         "rating": {
-          "rate": 3.5,
-          "count":136
+          "rate": 3.2,
+          "count":336
         }
       },
       {
         "id": 123,
-        "title": "Title",
-        "color": ["white","yellow"],
+        "title": "Pink View",
+        "color": ["pink"],
         "price": 26.00,
-        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "description": "This fashionable beanie features an artistic design that will make a statement. This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
         "materials": ["cotton"],
-        "model": "Title",
+        "model": "Pink View",
         "category": "Accessories",
         "type": "Beanie",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_8.png",
         "rating": {
-          "rate": 3.5,
-          "count":136
+          "rate": 4.1,
+          "count":192
         }
       },
       {
         "id": 123,
-        "title": "Title",
-        "color": ["white","yellow"],
+        "title": "Beat",
+        "color": ["blue","yellow"],
         "price": 26.00,
-        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "description": " This adjustable beanie features a fun design that will add a splash of color to any outfit. This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
         "materials": ["cotton"],
-        "model": "Title",
+        "model": "Beat",
         "category": "Accessories",
         "type": "Beanie",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_9.png",
         "rating": {
-          "rate": 3.5,
-          "count":136
+          "rate": 3.0,
+          "count":176
         }
       },
       {
         "id": 123,
-        "title": "Title",
-        "color": ["white","yellow"],
+        "title": "Sheel",
+        "color": ["orange"],
         "price": 26.00,
-        "description": "This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
+        "description": " This classic beanie features a unique design that will add a touch of class to any look.This high-quality beanie is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The beanie features a great design that will make a statement and add a touch of style to any look. ",
         "materials": ["cotton"],
-        "model": "Title",
+        "model": "Sheel",
         "category": "Accessories",
         "type": "Beanie",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Beanie/Beanie_10.png",
         "rating": {
-          "rate": 3.5,
-          "count":136
+          "rate": 4.5,
+          "count":66
         }
       }
           
