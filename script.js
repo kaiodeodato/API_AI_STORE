@@ -15,14 +15,6 @@ async function fetchData() {
         return (`
         <div class="divBoxTeste">
             <img class="imgTeste" src="${item.image}">
-            <p>category:${item.category}</p>
-            <p>type:${item.type}</p>
-            <p>title${item.title}</p>
-            <p>model:${item.model}</p>
-            <p>color:${item.color}</p>
-            <p>materials:${item.materials}</p>
-            <p>description:${item.description}</p>
-            <p>price:${item.price}</p>
         </div>
         `)
     })
@@ -44,3 +36,12 @@ function copyEvent(id)
     document.execCommand("Copy")
     alert('copiei')
 }
+
+{/* <p>category:${item.category}</p>
+<p>type:${item.type}</p>
+<p>title${item.title}</p>
+<p>model:${item.model}</p>
+<p>color:${item.color}</p>
+<p>materials:${item.materials}</p>
+<p>description:${item.description}</p>
+<p>price:${item.price}</p> */}

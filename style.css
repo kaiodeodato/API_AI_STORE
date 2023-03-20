@@ -127,6 +127,7 @@ a:hover{
     background-color: #3069730c;
     padding: 10px;
     border-radius: 5px;
+    margin-top: 5px;
 }
 .space-top{
     margin-top: 10px;
@@ -246,6 +247,10 @@ a:hover{
         text-align: center;
         font-size: 20px;
     }
+    .container_general .spanClass{
+        position: relative;
+        left: 40px;
+    }
     .store_image{
         width: 200px;
         height: 200px;
@@ -276,14 +281,12 @@ a:hover{
     .box_text{
         width: 320px;
         margin: auto;
-        font-size: 9px;
-      
+        font-size: 9px;   
     }
     .box_text p{
         width: 300px;
         margin: auto;
         font-size: 9px;
-      
     }
 }
 @media only screen and (max-width: 320px) {
@@ -317,7 +320,7 @@ a:hover{
     flex-direction: column;
     justify-content: baseline;
     width: 200px;
-    height: 585px;
+    height: 200px;
     padding: 10px;
     margin: 5px;
     border-radius: 5px;
