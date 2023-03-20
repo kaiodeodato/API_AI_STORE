@@ -1631,6 +1631,166 @@
       "rate": 3.7,
       "count":165
     }
+  },
+  {
+    "id": 103,
+    "title": "Cotton Food",
+    "color": ["multicolor"],
+    "price": 15.00,
+    "description": "These cotton socks feature a fun and unique art design that will add a splash of color to any outfit.These super comfortable cotton socks are designed to provide maximum comfort and support. They are made from a soft and breathable cotton fabric that is lightweight and stretchy for a perfect fit.",
+    "materials": ["cotton"],
+    "model": "Cotton Food",
+    "category": "Accessories",
+    "type": "Socks",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Socks_1.png",
+    "rating": {
+      "rate": 3.2,
+      "count":132
+    }
+  },
+  {
+    "id": 104,
+    "title": "Rex",
+    "color": ["multicolor"],
+    "price": 15.00,
+    "description": "These stylish cotton socks feature a vibrant and eye-catching art design that will make a statement. These super comfortable cotton socks are designed to provide maximum comfort and support. They are made from a soft and breathable cotton fabric that is lightweight and stretchy for a perfect fit.",
+    "materials": ["cotton"],
+    "model": "Rex",
+    "category": "Accessories",
+    "type": "Socks",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Socks_2.png",
+    "rating": {
+      "rate": 4.6,
+      "count":175
+    }
+  },
+  {
+    "id": 105,
+    "title": "Mosaic",
+    "color": ["multicolor"],
+    "price": 12.00,
+    "description": "These comfortable cotton socks feature a playful art design that will bring a smile to your face. These super comfortable cotton socks are designed to provide maximum comfort and support. They are made from a soft and breathable cotton fabric that is lightweight and stretchy for a perfect fit.",
+    "materials": ["cotton"],
+    "model": "Mosaic",
+    "category": "Accessories",
+    "type": "Socks",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Socks_3.png",
+    "rating": {
+      "rate": 3.0,
+      "count":182
+    }
+  },
+  {
+    "id": 106,
+    "title": "Sweet",
+    "color": ["multicolor"],
+    "price": 20.00,
+    "description": "These soft and cozy cotton socks feature a fun and colorful art design that will brighten up any day. These super comfortable cotton socks are designed to provide maximum comfort and support. They are made from a soft and breathable cotton fabric that is lightweight and stretchy for a perfect fit.",
+    "materials": ["cotton"],
+    "model": "Sweet",
+    "category": "Accessories",
+    "type": "Socks",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Socks_4.png",
+    "rating": {
+      "rate": 3.7,
+      "count":14
+    }
+  },
+  {
+    "id": 107,
+    "title": "Classic Yellow",
+    "color": ["multicolor"],
+    "price": 16.00,
+    "description": "These lightweight cotton socks feature a unique art design that will add a touch of style to any look. These super comfortable cotton socks are designed to provide maximum comfort and support. They are made from a soft and breathable cotton fabric that is lightweight and stretchy for a perfect fit.",
+    "materials": ["cotton"],
+    "model": "Classic Yellow",
+    "category": "Accessories",
+    "type": "Socks",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Socks_5.png",
+    "rating": {
+      "rate": 3.3,
+      "count":160
+    }
+  },
+  {
+    "id": 108,
+    "title": "Cotton Boots",
+    "color": ["multicolor"],
+    "price": 10.00,
+    "description": "These breathable cotton socks feature a fun art design that will keep your feet cool and comfortable.These super comfortable cotton socks are designed to provide maximum comfort and support. They are made from a soft and breathable cotton fabric that is lightweight and stretchy for a perfect fit.",
+    "materials": ["cotton"],
+    "model": "Cotton Boots",
+    "category": "Accessories",
+    "type": "Socks",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Socks_6.png",
+    "rating": {
+      "rate": 3.2,
+      "count":19
+    }
+  },
+  {
+    "id": 109,
+    "title": "Soft Machine",
+    "color": ["multicolor"],
+    "price": 10.00,
+    "description": "These durable cotton socks feature a bold art design that will last through any activity. These super comfortable cotton socks are designed to provide maximum comfort and support. They are made from a soft and breathable cotton fabric that is lightweight and stretchy for a perfect fit.",
+    "materials": ["cotton"],
+    "model": "Soft Machine",
+    "category": "Accessories",
+    "type": "Socks",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Socks_7.png",
+    "rating": {
+      "rate": 4.4,
+      "count":120
+    }
+  },
+  {
+    "id": 110,
+    "title": "Dadaism",
+    "color": ["multicolor"],
+    "price": 20.00,
+    "description": "These stretchy cotton socks feature a stylish art design that will provide a perfect fit. These super comfortable cotton socks are designed to provide maximum comfort and support. They are made from a soft and breathable cotton fabric that is lightweight and stretchy for a perfect fit.",
+    "materials": ["cotton"],
+    "model": "Dadaism",
+    "category": "Accessories",
+    "type": "Socks",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Socks_8.png",
+    "rating": {
+      "rate": 3.0,
+      "count":163
+    }
+  },
+  {
+    "id": 111,
+    "title": "Food Basket",
+    "color": ["multicolor"],
+    "price": 16.00,
+    "description": "These absorbent cotton socks feature an eye-catching art design that will keep your feet dry. These super comfortable cotton socks are designed to provide maximum comfort and support. They are made from a soft and breathable cotton fabric that is lightweight and stretchy for a perfect fit.",
+    "materials": ["cotton"],
+    "model": "Food Basket",
+    "category": "Accessories",
+    "type": "Socks",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Socks_9.png",
+    "rating": {
+      "rate": 3.1,
+      "count":19
+    }
+  },
+  {
+    "id": 112,
+    "title": "City Mode",
+    "color": ["multicolor"],
+    "price": 16.00,
+    "description": "These stylish cotton socks feature an artistic design that will make a statement.These super comfortable cotton socks are designed to provide maximum comfort and support. They are made from a soft and breathable cotton fabric that is lightweight and stretchy for a perfect fit.",
+    "materials": ["cotton"],
+    "model": "City Mode",
+    "category": "Accessories",
+    "type": "Socks",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Socks_10.png",
+    "rating": {
+      "rate": 4.7,
+      "count":177
+    }
   }
     
    
