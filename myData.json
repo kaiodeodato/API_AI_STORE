@@ -1284,7 +1284,7 @@
     "id": 81,
     "title": "Tribe Vibes",
     "color": ["green","orange"],
-    "price": 79.00,
+    "price": 65.00,
     "description": "A cotton Shorts in green and orange can be a great choice for a fun and lively outfit. The combination of green and orange creates a playful and energetic look. You can pair the shirt with denim Shorts or pants for a casual daytime look, or dress it up with black or white trousers for a more polished appearance. ",
     "materials": ["cotton"],
     "model": "Tribe Vibes",
@@ -1292,15 +1292,15 @@
     "type": "Shorts",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shorts/Shorts_9.png",
     "rating": {
-      "rate": 3.1,
-      "count": 136
+      "rate": 4.8,
+      "count": 178
     }
   },
   {
     "id": 82,
     "title": "Jungle One",
     "color": ["green","orange"],
-    "price": 59.00,
+    "price": 86.00,
     "description": "A cotton Shorts in green and orange can be a great choice for a fun and lively outfit. The combination of green and orange creates a playful and energetic look. You can pair the shirt with denim Shorts or pants for a casual daytime look, or dress it up with black or white trousers for a more polished appearance. ",
     "materials": ["cotton"],
     "model": "Jungle One",
@@ -1308,8 +1308,168 @@
     "type": "Shorts",
     "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Shorts/Shorts_10.png",
     "rating": {
+      "rate": 4.5,
+      "count":99
+    }
+  },
+  {
+    "id": 83,
+    "title": "The Black One",
+    "color": ["black"],
+    "price": 69.00,
+    "description": "A cotton Shorts in green and orange can be a great choice for a fun and lively outfit. The combination of green and orange creates a playful and energetic look. You can pair the shirt with denim Shorts or pants for a casual daytime look, or dress it up with black or white trousers for a more polished appearance. ",
+    "materials": ["cotton"],
+    "model": "The Black One",
+    "category": "Clothes",
+    "type": "Hoodies",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Hoodies/Hoodies_1.png",
+    "rating": {
+      "rate": 3.8,
+      "count":98
+    }
+  },
+  {
+    "id": 84,
+    "title": "Red Vibes",
+    "color": ["red","white"],
+    "price": 78.00,
+    "description": "A cotton Shorts in green and orange can be a great choice for a fun and lively outfit. The combination of green and orange creates a playful and energetic look. You can pair the shirt with denim Shorts or pants for a casual daytime look, or dress it up with black or white trousers for a more polished appearance. ",
+    "materials": ["cotton"],
+    "model": "Red Vibes",
+    "category": "Clothes",
+    "type": "Hoodies",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Hoodies/Hoodies_2.png",
+    "rating": {
+      "rate": 3.6,
+      "count":96
+    }
+  },
+  {
+    "id": 85,
+    "title": "Leavesyn",
+    "color": ["green"],
+    "price": 85.00,
+    "description": "A cotton Shorts in green and orange can be a great choice for a fun and lively outfit. The combination of green and orange creates a playful and energetic look. You can pair the shirt with denim Shorts or pants for a casual daytime look, or dress it up with black or white trousers for a more polished appearance. ",
+    "materials": ["cotton"],
+    "model": "Leavesyn",
+    "category": "Clothes",
+    "type": "Hoodies",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Hoodies/Hoodies_3.png",
+    "rating": {
       "rate": 4.2,
-      "count":73
+      "count":154
+    }
+  },
+  {
+    "id": 86,
+    "title": "Cloudie",
+    "color": ["blue","white"],
+    "price": 55.00,
+    "description": "A cotton Shorts in green and orange can be a great choice for a fun and lively outfit. The combination of green and orange creates a playful and energetic look. You can pair the shirt with denim Shorts or pants for a casual daytime look, or dress it up with black or white trousers for a more polished appearance. ",
+    "materials": ["cotton"],
+    "model": "Cloudie",
+    "category": "Clothes",
+    "type": "Hoodies",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Hoodies/Hoodies_4.png",
+    "rating": {
+      "rate": 2.2,
+      "count":75
+    }
+  },
+  {
+    "id": 87,
+    "title": "Stripes Vibes",
+    "color": ["red","white"],
+    "price": 79.00,
+    "description": "A cotton Shorts in green and orange can be a great choice for a fun and lively outfit. The combination of green and orange creates a playful and energetic look. You can pair the shirt with denim Shorts or pants for a casual daytime look, or dress it up with black or white trousers for a more polished appearance. ",
+    "materials": ["cotton"],
+    "model": "Stripes Vibes",
+    "category": "Clothes",
+    "type": "Hoodies",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Hoodies/Hoodies_5.png",
+    "rating": {
+      "rate": 3.0,
+      "count":235
+    }
+  },
+  {
+    "id": 88,
+    "title": "Number One",
+    "color": ["blue","yellow"],
+    "price": 65.00,
+    "description": "A cotton Shorts in green and orange can be a great choice for a fun and lively outfit. The combination of green and orange creates a playful and energetic look. You can pair the shirt with denim Shorts or pants for a casual daytime look, or dress it up with black or white trousers for a more polished appearance. ",
+    "materials": ["cotton"],
+    "model": "Number One",
+    "category": "Clothes",
+    "type": "Hoodies",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Hoodies/Hoodies_6.png",
+    "rating": {
+      "rate": 4.1,
+      "count":75
+    }
+  },
+  {
+    "id": 89,
+    "title": "Racing",
+    "color": ["multicolor"],
+    "price": 75.00,
+    "description": "A cotton Shorts in green and orange can be a great choice for a fun and lively outfit. The combination of green and orange creates a playful and energetic look. You can pair the shirt with denim Shorts or pants for a casual daytime look, or dress it up with black or white trousers for a more polished appearance. ",
+    "materials": ["cotton"],
+    "model": "Racing",
+    "category": "Clothes",
+    "type": "Hoodies",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Hoodies/Hoodies_7.png",
+    "rating": {
+      "rate": 3.9,
+      "count":165
+    }
+  },
+  {
+    "id": 90,
+    "title": "Hack",
+    "color": ["multicolor"],
+    "price": 85.00,
+    "description": "A cotton Shorts in green and orange can be a great choice for a fun and lively outfit. The combination of green and orange creates a playful and energetic look. You can pair the shirt with denim Shorts or pants for a casual daytime look, or dress it up with black or white trousers for a more polished appearance. ",
+    "materials": ["cotton"],
+    "model": "Hack",
+    "category": "Clothes",
+    "type": "Hoodies",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Hoodies/Hoodies_8.png",
+    "rating": {
+      "rate": 3.5,
+      "count":68
+    }
+  },
+  {
+    "id": 81,
+    "title": "Abstract Monday",
+    "color": ["multicolor"],
+    "price": 79.00,
+    "description": "A cotton Shorts in green and orange can be a great choice for a fun and lively outfit. The combination of green and orange creates a playful and energetic look. You can pair the shirt with denim Shorts or pants for a casual daytime look, or dress it up with black or white trousers for a more polished appearance. ",
+    "materials": ["cotton"],
+    "model": "Abstract Monday",
+    "category": "Clothes",
+    "type": "Hoodies",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Hoodies/Hoodies_9.png",
+    "rating": {
+      "rate": 4.3,
+      "count":96
+    }
+  },
+  {
+    "id": 82,
+    "title": "Gray Dragon",
+    "color": ["gray"],
+    "price": 99.00,
+    "description": "A cotton Shorts in green and orange can be a great choice for a fun and lively outfit. The combination of green and orange creates a playful and energetic look. You can pair the shirt with denim Shorts or pants for a casual daytime look, or dress it up with black or white trousers for a more polished appearance. ",
+    "materials": ["cotton"],
+    "model": "Gray Dragon",
+    "category": "Clothes",
+    "type": "Hoodies",
+    "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Hoodies/Hoodies_10.png",
+    "rating": {
+      "rate": 5.0,
+      "count":32
     }
   }
    
