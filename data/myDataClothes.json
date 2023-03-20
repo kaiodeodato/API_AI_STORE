@@ -788,16 +788,176 @@
         "id": 92,
         "title": "Gray Dragon",
         "color": ["gray"],
-        "price": 99.00,
-        "description": "A cotton hoodie in gray is a versatile and comfortable piece that can be worn in many different settings. It can be dressed up or down, depending on the occasion. For a casual look, pair the gray hoodie with a pair of jeans and sneakers.",
+        "price": 95.00,
+        "description": "A cotton hoodie in gray is a versatile and comfortable piece that can be worn in many different settings. It can be dressed up or down, depending on the occasion. For a casual look, pair the hoodie with a pair of jeans and sneakers.",
         "materials": ["cotton"],
         "model": "Gray Dragon",
         "category": "Clothes",
         "type": "Hoodies",
         "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Hoodies/Hoodies_10.png",
         "rating": {
-          "rate": 5.0,
-          "count":32
+          "rate": 4.0,
+          "count":145
+        }
+      },
+      {
+        "id": 93,
+        "title": "Medieval Night",
+        "color": ["black","gray"],
+        "price": 129.00,
+        "description": "A cotton black and gray Jacket is a versatile and comfortable piece that can be worn in many different settings. It can be dressed up or down, depending on the occasion. For a casual look, pair the Jacket with a pair of jeans and sneakers.",
+        "materials": ["cotton"],
+        "model": "Medieval",
+        "category": "Clothes",
+        "type": "Jackets",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_1.png",
+        "rating": {
+          "rate": 3.5,
+          "count":45
+        }
+      },
+      {
+        "id": 94,
+        "title": "Dragon Look",
+        "color": ["black","red"],
+        "price": 154.00,
+        "description": "A cotton Jacket is a versatile and comfortable piece that can be worn in many different settings. It can be dressed up or down, depending on the occasion. For a casual look, pair the Jacket with a pair of jeans and sneakers.",
+        "materials": ["cotton"],
+        "model": "Dragon Look",
+        "category": "Clothes",
+        "type": "Jackets",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_2.png",
+        "rating": {
+          "rate": 3.3,
+          "count":126
+        }
+      },
+      {
+        "id": 95,
+        "title": "Classy Club",
+        "color": ["black","red"],
+        "price": 135.00,
+        "description": "A cotton Jacket is a versatile and comfortable piece that can be worn in many different settings. It can be dressed up or down, depending on the occasion. For a casual look, pair the Jacket with a pair of jeans and sneakers.",
+        "materials": ["cotton"],
+        "model": "Classy Club",
+        "category": "Clothes",
+        "type": "Jackets",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_3.png",
+        "rating": {
+          "rate": 4.8,
+          "count":65
+        }
+      },
+      {
+        "id": 96,
+        "title": "Social Yellow",
+        "color": ["black","yellow"],
+        "price": 139.00,
+        "description": "A cotton Jacket is a versatile and comfortable piece that can be worn in many different settings. It can be dressed up or down, depending on the occasion. For a casual look, pair the Jacket with a pair of jeans and sneakers.",
+        "materials": ["cotton"],
+        "model": "Social Yellow",
+        "category": "Clothes",
+        "type": "Jackets",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_4.png",
+        "rating": {
+          "rate": 3.3,
+          "count":125
+        }
+      },
+      {
+        "id": 97,
+        "title": "Bubbles",
+        "color": ["black","yellow"],
+        "price": 115.00,
+        "description": "A cotton black and yellow Jacket is a versatile and comfortable piece that can be worn in many different settings. It can be dressed up or down, depending on the occasion. For a casual look, pair the Jacket with a pair of jeans and sneakers.",
+        "materials": ["cotton"],
+        "model": "Bubbles",
+        "category": "Clothes",
+        "type": "Jackets",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_5.png",
+        "rating": {
+          "rate": 3.5,
+          "count":136
+        }
+      },
+      {
+        "id": 98,
+        "title": "Winter Cold",
+        "color": ["black"],
+        "price": 112.00,
+        "description": "A cotton Jacket is a versatile and comfortable piece that can be worn in many different settings. It can be dressed up or down, depending on the occasion. For a casual look, pair the Jacket with a pair of jeans and sneakers.",
+        "materials": ["cotton"],
+        "model": "Winter Cold",
+        "category": "Clothes",
+        "type": "Jackets",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_6.png",
+        "rating": {
+          "rate": 3.1,
+          "count":76
+        }
+      },
+      {
+        "id": 99,
+        "title": "Black Winter",
+        "color": ["black","white"],
+        "price": 125.00,
+        "description": "A cotton b&g Jacket is a versatile and comfortable piece that can be worn in many different settings. It can be dressed up or down, depending on the occasion. For a casual look, pair the Jacket with a pair of jeans and sneakers.",
+        "materials": ["cotton"],
+        "model": "Black Winter",
+        "category": "Clothes",
+        "type": "Jackets",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_7.png",
+        "rating": {
+          "rate": 2.7,
+          "count":78
+        }
+      },
+      {
+        "id": 100,
+        "title": "80's",
+        "color": ["black","purple"],
+        "price": 129.00,
+        "description": "A cotton Jacket is a versatile and comfortable piece that can be worn in many different settings. It can be dressed up or down, depending on the occasion. For a casual look, pair the Jacket with a pair of jeans and sneakers.",
+        "materials": ["cotton"],
+        "model": "80's",
+        "category": "Clothes",
+        "type": "Jackets",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_8.png",
+        "rating": {
+          "rate": 4.8,
+          "count":35
+        }
+      },
+      {
+        "id": 101,
+        "title": "Baby boy",
+        "color": ["black","blue","white"],
+        "price": 129.00,
+        "description": "A cotton Jacket is a versatile and comfortable piece that can be worn in many different settings. It can be dressed up or down, depending on the occasion. For a casual look, pair the Jacket with a pair of jeans and sneakers.",
+        "materials": ["cotton"],
+        "model": "Baby boy",
+        "category": "Clothes",
+        "type": "Jackets",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_9.png",
+        "rating": {
+          "rate": 3.1,
+          "count":65
+        }
+      },
+      {
+        "id": 102,
+        "title": "Yellow Abstract",
+        "color": ["black","yellow"],
+        "price": 129.00,
+        "description": "A cotton Jacket is a versatile and comfortable piece that can be worn in many different settings. It can be dressed up or down, depending on the occasion. For a casual look, pair the Jacket with a pair of jeans and sneakers.",
+        "materials": ["cotton"],
+        "model": "Yellow Abstract",
+        "category": "Clothes",
+        "type": "Jackets",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_10.png",
+        "rating": {
+          "rate": 3.7,
+          "count":165
         }
       }
           
