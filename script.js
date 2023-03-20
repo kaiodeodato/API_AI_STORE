@@ -2,8 +2,8 @@
 
 async function fetchData() {
 
-    const response = await fetch('https://kaiodeodato.github.io/API_AI_STORE/data/myDataAccessories.json');
-    // const response = await fetch('https://kaiodeodato.github.io/API_AI_STORE/myData.json');
+    // const response = await fetch('https://kaiodeodato.github.io/API_AI_STORE/data/myDataAccessories.json');
+    const response = await fetch('https://kaiodeodato.github.io/API_AI_STORE/myData.json');
     const productsData = await response.json();
     // console.log(productsData)
 

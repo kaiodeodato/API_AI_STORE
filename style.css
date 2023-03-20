@@ -244,8 +244,8 @@ a:hover{
 }
 
 .imgTeste{
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
 
     filter: 
     brightness(1.09)
@@ -261,10 +261,18 @@ a:hover{
     margin: 0 auto;
 }
 .divBoxTeste{
-    width: 300px;
-    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    width: 200px;
+    height: 585px;
     padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.267);
 }
+
 .divBoxTeste p{
-    font-size: 12px;
+    font-size: 11px;
+    margin-top: 3px;
 }
