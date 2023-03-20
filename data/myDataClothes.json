@@ -810,7 +810,7 @@
         "model": "Medieval",
         "category": "Clothes",
         "type": "Jackets",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_1.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/jackets_1.png",
         "rating": {
           "rate": 3.5,
           "count":45
@@ -826,7 +826,7 @@
         "model": "Dragon Look",
         "category": "Clothes",
         "type": "Jackets",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_2.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/jackets_2.png",
         "rating": {
           "rate": 3.3,
           "count":126
@@ -842,7 +842,7 @@
         "model": "Classy Club",
         "category": "Clothes",
         "type": "Jackets",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_3.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/jackets_3.png",
         "rating": {
           "rate": 4.8,
           "count":65
@@ -858,7 +858,7 @@
         "model": "Social Yellow",
         "category": "Clothes",
         "type": "Jackets",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_4.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/jackets_4.png",
         "rating": {
           "rate": 3.3,
           "count":125
@@ -874,7 +874,7 @@
         "model": "Bubbles",
         "category": "Clothes",
         "type": "Jackets",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_5.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/jackets_5.png",
         "rating": {
           "rate": 3.5,
           "count":136
@@ -890,7 +890,7 @@
         "model": "Winter Cold",
         "category": "Clothes",
         "type": "Jackets",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_6.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/jackets_6.png",
         "rating": {
           "rate": 3.1,
           "count":76
@@ -906,7 +906,7 @@
         "model": "Black Winter",
         "category": "Clothes",
         "type": "Jackets",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_7.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/jackets_7.png",
         "rating": {
           "rate": 2.7,
           "count":78
@@ -922,7 +922,7 @@
         "model": "80's",
         "category": "Clothes",
         "type": "Jackets",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_8.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/jackets_8.png",
         "rating": {
           "rate": 4.8,
           "count":35
@@ -938,7 +938,7 @@
         "model": "Baby boy",
         "category": "Clothes",
         "type": "Jackets",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_9.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/jackets_9.png",
         "rating": {
           "rate": 3.1,
           "count":65
@@ -954,7 +954,7 @@
         "model": "Yellow Abstract",
         "category": "Clothes",
         "type": "Jackets",
-        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/Jackets_10.png",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Clothes/Jackets/jackets_10.png",
         "rating": {
           "rate": 3.7,
           "count":165
