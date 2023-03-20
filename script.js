@@ -14,7 +14,9 @@ async function fetchData() {
     const ArrayImagens = products.map(item => {
         return (`
         <div class="divBoxTeste">
-            <img class="imgTeste" src="${item.image}">
+            <a target="_blanck" href="${item.image}">
+                <img class="imgTeste" src="${item.image}">
+            </a>
         </div>
         `)
     })
