@@ -132,7 +132,7 @@
         "id": 111,
         "title": "Food Basket",
         "color": ["multicolor"],
-        "price": 16.00,
+        "price": 19.00,
         "description": "These absorbent cotton socks feature an eye-catching art design that will keep your feet dry. These super comfortable cotton socks are designed to provide maximum comfort and support. They are made from a soft and breathable cotton fabric that is lightweight and stretchy for a perfect fit.",
         "materials": ["cotton"],
         "model": "Food Basket",
@@ -148,7 +148,7 @@
         "id": 112,
         "title": "City Mode",
         "color": ["multicolor"],
-        "price": 16.00,
+        "price": 19.00,
         "description": "These stylish cotton socks feature an artistic design that will make a statement.These super comfortable cotton socks are designed to provide maximum comfort and support. They are made from a soft and breathable cotton fabric that is lightweight and stretchy for a perfect fit.",
         "materials": ["cotton"],
         "model": "City Mode",
@@ -158,6 +158,166 @@
         "rating": {
           "rate": 4.7,
           "count":177
+        }
+      },
+      {
+        "id": 113,
+        "title": "Abstract Head",
+        "color": ["black","white","yellow"],
+        "price": 29.00,
+        "description": "This stylish cap features a great design that will make a statement.  This high-quality cap is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The cap features a great design that will make a statement and add a touch of style to any look. It is durable and absorbent, so your head will stay dry and comfortable all day long.",
+        "materials": ["cotton"],
+        "model": "Abstract Head",
+        "category": "Accessories",
+        "type": "Caps",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_1.png",
+        "rating": {
+          "rate": 3.1,
+          "count":146
+        }
+      },
+      {
+        "id": 114,
+        "title": "Abstract Head Two",
+        "color": ["black","green","white"],
+        "price": 30.00,
+        "description": " This comfortable cap features a unique design that will add a touch of style to any look. This high-quality cap is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The cap features a great design that will make a statement and add a touch of style to any look. It is durable and absorbent, so your head will stay dry and comfortable all day long.",
+        "materials": ["cotton"],
+        "model": "Abstract Head Two",
+        "category": "Accessories",
+        "type": "Caps",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_2.png",
+        "rating": {
+          "rate": 3.8,
+          "count":106
+        }
+      },
+      {
+        "id": 115,
+        "title": "Abstract Head Three",
+        "color": ["multicolor"],
+        "price": 24.00,
+        "description": " This lightweight cap features a vibrant design that will brighten up any day. This high-quality cap is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The cap features a great design that will make a statement and add a touch of style to any look. It is durable and absorbent, so your head will stay dry and comfortable all day long.",
+        "materials": ["cotton"],
+        "model": "Abstract Head Three",
+        "category": "Accessories",
+        "type": "Caps",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_3.png",
+        "rating": {
+          "rate": 3.3,
+          "count":156
+        }
+      },
+      {
+        "id": 116,
+        "title": "Royal Blue",
+        "color": ["blue"],
+        "price": 22.00,
+        "description": "This breathable cap features a playful design that will keep you cool and comfortable.  This high-quality cap is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The cap features a great design that will make a statement and add a touch of style to any look. It is durable and absorbent, so your head will stay dry and comfortable all day long.",
+        "materials": ["cotton"],
+        "model": "Royal Blue",
+        "category": "Accessories",
+        "type": "Caps",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_4.png",
+        "rating": {
+          "rate": 4.8,
+          "count":263
+        }
+      },
+      {
+        "id": 117,
+        "title": "White Curves",
+        "color": ["black","white"],
+        "price": 23.00,
+        "description": "This durable cap features a bold design that will last through any activity.  This high-quality cap is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The cap features a great design that will make a statement and add a touch of style to any look. It is durable and absorbent, so your head will stay dry and comfortable all day long.",
+        "materials": ["cotton"],
+        "model": "White Curves",
+        "category": "Accessories",
+        "type": "Caps",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_5.png",
+        "rating": {
+          "rate": 2.7,
+          "count":362
+        }
+      },
+      {
+        "id": 118,
+        "title": "Social Blue Club",
+        "color": ["blue","white"],
+        "price": 18.00,
+        "description": "This stretchy cap features a stylish design that will provide a perfect fit.  This high-quality cap is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The cap features a great design that will make a statement and add a touch of style to any look. It is durable and absorbent, so your head will stay dry and comfortable all day long.",
+        "materials": ["cotton"],
+        "model": "Social Blue Club",
+        "category": "Accessories",
+        "type": "Caps",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_6.png",
+        "rating": {
+          "rate": 4.6,
+          "count":165
+        }
+      },
+      {
+        "id": 119,
+        "title": "New Way",
+        "color": ["blue"],
+        "price": 26.00,
+        "description": "This absorbent cap features an eye-catching design that will keep you dry. This high-quality cap is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The cap features a great design that will make a statement and add a touch of style to any look. It is durable and absorbent, so your head will stay dry and comfortable all day long.",
+        "materials": ["cotton"],
+        "model": "New Way",
+        "category": "Accessories",
+        "type": "Caps",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_7.png",
+        "rating": {
+          "rate": 3.9,
+          "count":171
+        }
+      },
+      {
+        "id": 120,
+        "title": "Social Red Club",
+        "color": ["black","red","beige"],
+        "price": 26.00,
+        "description": "This fashionable cap features an artistic design that will make a statement. This high-quality cap is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The cap features a great design that will make a statement and add a touch of style to any look. It is durable and absorbent, so your head will stay dry and comfortable all day long.",
+        "materials": ["cotton"],
+        "model": "Social Red Club",
+        "category": "Accessories",
+        "type": "Caps",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_8.png",
+        "rating": {
+          "rate": 2.6,
+          "count":154
+        }
+      },
+      {
+        "id": 121,
+        "title": "Flame One",
+        "color": ["white","yellow"],
+        "price": 26.00,
+        "description": "This adjustable cap features a fun design that will add a splash of color to any outfit.  This high-quality cap is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The cap features a great design that will make a statement and add a touch of style to any look. It is durable and absorbent, so your head will stay dry and comfortable all day long.",
+        "materials": ["cotton"],
+        "model": "Flame One",
+        "category": "Accessories",
+        "type": "Caps",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_9.png",
+        "rating": {
+          "rate": 2.9,
+          "count":196
+        }
+      },
+      {
+        "id": 122,
+        "title": "Flame Two",
+        "color": ["white","yellow"],
+        "price": 26.00,
+        "description": "This classic cap features a unique design that will add a touch of class to any look. This high-quality cap is designed to provide maximum comfort and support. It is made from a soft and breathable fabric that is lightweight and stretchy for a perfect fit. The cap features a great design that will make a statement and add a touch of style to any look. It is durable and absorbent, so your head will stay dry and comfortable all day long.",
+        "materials": ["cotton"],
+        "model": "Flame Two",
+        "category": "Accessories",
+        "type": "Caps",
+        "image": "https://kaiodeodato.github.io/API_AI_STORE/Images/Accessories/Socks/Caps_10.png",
+        "rating": {
+          "rate": 3.5,
+          "count":136
         }
       }
           
